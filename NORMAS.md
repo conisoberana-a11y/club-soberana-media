@@ -11,3 +11,17 @@ Normas fijas. Valen para todas las publicaciones, en todas las redes y en todas 
 7. Los carruseles no pueden ser la misma plantilla con otras frases. Hay que variar el formato.
 
 Registro de fotos y vídeos usados: este repositorio, carpetas `fotos-coni/` y `videos-coni/`. Lo usado se anota en `USADAS.md`.
+
+## Estrategia viral (siempre)
+
+Todo se hace pensando en alcance y en que se comparta. Siempre se cumplen las normas de arriba.
+
+8. **Gancho en el primer segundo.** La portada es una foto de Coni con una frase gancho corta encima, de 2 a 6 palabras. Debe despertar curiosidad o nombrar la edad («a los 60…»). Nunca repite la frase del vídeo.
+9. **Más reels que imágenes.** Unos 3 reels por semana más el del sábado a las 11:00. Los reels tienen 3–4 veces más alcance que las tarjetas.
+10. **Algo personal en primera persona** al menos una vez por semana: escenas concretas y cotidianas, la edad dicha sin rodeos.
+11. **Llamadas que impulsan el algoritmo**, siempre con palabras distintas:
+    - guardar (para releer);
+    - compartir (con una amiga);
+    - comentar (con una pregunta abierta y fácil de responder).
+12. Frases cortas y la primera línea del pie como gancho. Los reels duran entre 12 y 25 segundos para que se vean hasta el final.
+13. Formatos variados: lista en varias fotos, vídeo caminando, retrato con reflexión, «antes / ahora». Nunca la misma plantilla seguida.
