@@ -1,0 +1,25 @@
+# Fotos y vídeos de Coni ya usados (no repetir)
+
+Se identifican por el prefijo del nombre de archivo en `fotos-coni/` y `videos-coni/`.
+
+## Fotos usadas
+- f7aa58db (24 oct), 27dabb68 (31 oct), eac72608 (7 nov), 9f98dbd3 (14 nov)
+- 0a3497e4 (26 oct), f42ab26c (2 nov), ce2097cc (9 nov), be31b8e9 (19 oct)
+- de2c1923 (20 nov)
+- 211209c1, 4ac5fde3, bb955b9b, 7d43e582, f94d543e, 445ac379 (21 nov)
+- 53159aa7 (25 nov)
+- 13a547b3, 082c7fe0, 31500f28, ac8615dd, 63834acb (28 nov)
+- 609860bb (30 nov)
+
+## Fotos que no se usan porque son casi iguales a alguna usada
+305db9b3, 282c0377, eebcffc5, f86720c6, c113e17b, 41008dff, 9e31d2ad, ea7b9477, 32ecb3c9, ac343a3b
+
+## Vídeos usados
+- IMG_9765, 9766, 9767, 9770, 9771 (paseo_bosque, 16 nov)
+- IMG_9698, 9719, 9720, 9721, 9722 (18 nov)
+- IMG_9742, 9743, 9744 (23 nov)
+- IMG_9750, 9751, 9757 (27 nov)
+- IMG_9764: no se usa, porque es casi igual a paseo_bosque.
+
+## No son fotos (pantallazos)
+16bf91c9, 7ce39e8d, c3be4c9d
