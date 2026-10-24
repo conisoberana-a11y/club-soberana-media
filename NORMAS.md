@@ -6,7 +6,7 @@ Normas fijas. Valen para todas las publicaciones, en todas las redes y en todas 
 2. **Nunca repetir frases.** Ningún texto, frase de imagen ni pie se repite, ni con pequeños cambios. Antes de escribir uno nuevo, se compara con todo lo publicado y programado.
 3. Cada publicación lleva algo de Coni, al menos una foto suya. Nada de fondos lisos de un solo color con una frase.
 4. Todo reel empieza con una foto de Coni limpia, sin texto ni oscurecido, para que sea la portada en el feed.
-5. La música va dentro del vídeo y es suave y cálida, sobre todo de piano. NUNCA con fondo estridente ni agudo: nada de voces sintéticas, cuerdas que zumban ni arpa brillante (Coni rechazó esa música el 24 oct). Sin percusión marcada ni tono épico. Ninguna pista se repite. Desde el 24 de octubre, Coni deja que Claude elija la música según su estilo.
+5. **Música: Claude NO añade música** (decisión de Coni, 24 oct). Los reels sin música aprobada se envían a Coni por email el día antes (vídeo sin audio + texto); ella pone la música y los publica. En la hoja: Estado «Coni publica (email)» y luego «Enviado a Coni».
 6. Cada texto lleva emojis y exactamente 5 hashtags. El tono es elegante, suave, humano, reflexivo y positivo, para mujeres de 50 y 60 años o más. Nada de lenguaje de venta.
 7. Los carruseles no pueden ser la misma plantilla con otras frases. Hay que variar el formato.
 
