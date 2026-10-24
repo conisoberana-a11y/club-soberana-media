@@ -2,7 +2,7 @@
 
 Normas fijas. Valen para todas las publicaciones, en todas las redes y en todas las sesiones.
 
-1. **Nunca repetir imágenes.** Ninguna foto ni vídeo de Coni se usa dos veces. Tampoco vale en espejo, recortada ni en una escena casi igual (misma pose, mismo sitio y misma ropa).
+1. **REGLA FIJA: NUNCA repetir imágenes.** Ninguna foto ni vídeo de Coni se usa dos veces. Tampoco vale en espejo, recortada ni en una escena casi igual (misma pose, mismo sitio y misma ropa).
 2. **Nunca repetir frases.** Ningún texto, frase de imagen ni pie se repite, ni con pequeños cambios. Antes de escribir uno nuevo, se compara con todo lo publicado y programado.
 3. Cada publicación lleva algo de Coni, al menos una foto suya. Nada de fondos lisos de un solo color con una frase.
 4. Todo reel empieza con una foto de Coni limpia, sin texto ni oscurecido, para que sea la portada en el feed.
@@ -25,3 +25,6 @@ Todo se hace pensando en alcance y en que se comparta. Siempre se cumplen las no
     - comentar (con una pregunta abierta y fácil de responder).
 12. Frases cortas y la primera línea del pie como gancho. Los reels duran entre 12 y 25 segundos para que se vean hasta el final.
 13. Formatos variados: lista en varias fotos, vídeo caminando, retrato con reflexión, «antes / ahora». Nunca la misma plantilla seguida.
+
+## Frases que a Coni no le gustan (no usar nunca)
+- «sin pedir perdón por existir» (ni variantes como «pedir perdón por existir»)
