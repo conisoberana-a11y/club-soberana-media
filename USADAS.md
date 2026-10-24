@@ -10,6 +10,7 @@ Se identifican por el prefijo del nombre de archivo en `fotos-coni/` y `videos-c
 - 53159aa7 (25 nov)
 - 13a547b3, 082c7fe0, 31500f28, ac8615dd, 63834acb (28 nov)
 - 609860bb (30 nov)
+- 82dfe068 (6 nov, café con taza y platillo, vestido negro)
 
 - Foto de Coni con taza en el jardín (fotograma de rm_06nov): YA PUBLICADA antes, según Coni (24 oct). No usarla.
 
@@ -32,3 +33,7 @@ Se identifican por el prefijo del nombre de archivo en `fotos-coni/` y `videos-c
 - Árbol junto al río (≈63834acb): dbbd6a7f, f2f4cb7a, f75592d0, 36bc2e25
 - Chaqueta granate de pie en el sendero (≈7d43e582): 80edf25a, 96165b94, d5e7a5c8
 - Copas de árboles, sin Coni: f98a15ec
+
+## Fotos del 24 oct (café, vestido negro)
+- 82b93236: casi igual a 82dfe068 (usada). No usar.
+- 19a76e4b, d4d80c93, ed2b6102 (sillón de cuero): LIBRES, pero son casi iguales entre sí. Solo se puede usar UNA.
