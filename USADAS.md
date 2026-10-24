@@ -11,6 +11,8 @@ Se identifican por el prefijo del nombre de archivo en `fotos-coni/` y `videos-c
 - 13a547b3, 082c7fe0, 31500f28, ac8615dd, 63834acb (28 nov)
 - 609860bb (30 nov)
 
+- Foto de Coni con taza en el jardín (fotograma de rm_06nov): YA PUBLICADA antes, según Coni (24 oct). No usarla.
+
 ## Fotos que no se usan porque son casi iguales a alguna usada
 305db9b3, 282c0377, eebcffc5, f86720c6, c113e17b, 41008dff, 9e31d2ad, ea7b9477, 32ecb3c9, ac343a3b
 
@@ -23,3 +25,10 @@ Se identifican por el prefijo del nombre de archivo en `fotos-coni/` y `videos-c
 
 ## No son fotos (pantallazos)
 16bf91c9, 7ce39e8d, c3be4c9d
+
+## Fotos libres pero casi iguales a alguna ya usada (no sirven como imagen nueva)
+- Mirador con valla y lago (≈13a547b3): 24a22496, 5e04ee31, d6f3d5c2, dd637a6c, f6af5330
+- Cataratas con barandilla (≈31500f28): 5ce25971, f313dbf0, 34f2c802
+- Árbol junto al río (≈63834acb): dbbd6a7f, f2f4cb7a, f75592d0, 36bc2e25
+- Chaqueta granate de pie en el sendero (≈7d43e582): 80edf25a, 96165b94, d5e7a5c8
+- Copas de árboles, sin Coni: f98a15ec
