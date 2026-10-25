@@ -28,3 +28,11 @@ Todo se hace pensando en alcance y en que se comparta. Siempre se cumplen las no
 
 ## Frases que a Coni no le gustan (no usar nunca)
 - «sin pedir perdón por existir» (ni variantes como «pedir perdón por existir»)
+
+## Checklist viral para cada reel (Coni, 25 oct)
+1. Gancho de 2 a 6 palabras en el primer segundo, sobre una foto o vídeo de Coni. Nombra una edad o una emoción reconocible y nunca repite la frase del vídeo. Desaparece antes de que entre la primera frase.
+2. Duración entre 12 y 21 segundos, sin quedarse congelado al final. Si el vídeo es corto, se ajusta el ritmo de las frases.
+3. Frases cortas que den ganas de guardar, algo para compartir («mándaselo a…») y una pregunta fácil de contestar.
+4. La primera línea del pie es el gancho, y el pie lleva 5 hashtags.
+5. Cierre con el logo de Club Soberana centrado cuando encaje (fondo negro, círculo dorado, «Tu vida. Tu momento. Vive a tu manera.»).
+6. No se promete viralidad. A las 48 horas se miden visualizaciones, guardados y compartidos.
