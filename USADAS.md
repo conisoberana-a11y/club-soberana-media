@@ -37,3 +37,24 @@ Se identifican por el prefijo del nombre de archivo en `fotos-coni/` y `videos-c
 ## Fotos del 24 oct (café, vestido negro)
 - 82b93236: casi igual a 82dfe068 (usada). No usar.
 - 19a76e4b, d4d80c93, ed2b6102 (sillón de cuero): LIBRES, pero son casi iguales entre sí. Solo se puede usar UNA.
+
+## Banco común (rama claude/instagram-60-day-content-plan-q9m8fe, carpeta banco-coni/)
+Revisado el 26 oct comparando las imágenes.
+- Ya usados por otras sesiones: fotos 01, 01b, 01c, 02, 03, 04 y 05; vídeos 02, 03, 04 y 05.
+- Usados en los reels de diciembre:
+  - 2 dic: fotos 18, 19, 23 y 24 (ventana, blusa blanca). La escena entera queda usada, incluidos 20, 21, 22 y el vídeo 15.
+  - 4 dic: vídeo 16 (centro comercial).
+  - 5 dic: fotos 06, 07, 08, 09 y 10 (vestido floral). Escena usada, incluidos los vídeos 10 y 11.
+  - 7 dic: fotos 30, 31 y 32 (sofá rojo). Escena usada, incluido el vídeo 22.
+  - 9 dic: vídeo 01 (playa).
+  - 11 dic: vídeos 12 y 13 (cena con blusa blanca). Escena usada, incluidas las fotos 26, 27 y 28.
+  - 12 dic: fotos 13, 14 y 15 (terraza de noche). Escena usada, incluidos los vídeos 06 y 07.
+  - 14 dic: vídeos 17 y 19 (banco con el móvil).
+  - 16 dic: fotos 16 y 17 (gimnasio, vestuario).
+  - 18 dic: vídeos 18 y 21 (café con vela). Escena usada, incluida la foto 29.
+  - 19 dic: vídeos 14, 08, 09 y 20 (escalera roja, vestido rojo, pasillo con abrigo).
+  - 23 dic: foto 25 (sillón con botas y taza).
+  - 25 dic: fotos 11 y 12 (piscina de noche).
+
+## Fotos que mandó Coni el 26 oct (baja resolución, unos 320×630)
+89715c77 (espejo y tocador), 7e745133 (atardecer en el mar), 04d9db5a (restaurante de noche), 7197c405 (gimnasio con pesas), d9b0dd7d (terraza con café y gafas): LIBRES. Mejor pedir el original antes de usarlas.
