@@ -58,3 +58,4 @@ Revisado el 26 oct comparando las imágenes.
 
 ## Fotos que mandó Coni el 26 oct (baja resolución, unos 320×630)
 89715c77 (espejo y tocador), 7e745133 (atardecer en el mar), 04d9db5a (restaurante de noche), 7197c405 (gimnasio con pesas), d9b0dd7d (terraza con café y gafas): LIBRES. Mejor pedir el original antes de usarlas.
+- Fotos del 26 oct, ya usadas: 89715c77 / banco 33 (espejo) el 21 dic; 7e745133 / banco 34 (atardecer) el 26 dic; 04d9db5a / banco 35 (restaurante de noche) el 28 dic; d9b0dd7d / banco 37 (café con gafas) el 30 dic. Libre: 7197c405 / banco 36 (pesas).
