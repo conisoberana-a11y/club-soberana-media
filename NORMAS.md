@@ -36,3 +36,20 @@ Todo se hace pensando en alcance y en que se comparta. Siempre se cumplen las no
 4. La primera línea del pie es el gancho, y el pie lleva 5 hashtags.
 5. Cierre con el logo de Club Soberana centrado cuando encaje (fondo negro, círculo dorado, «Tu vida. Tu momento. Vive a tu manera.»).
 6. No se promete viralidad. A las 48 horas se miden visualizaciones, guardados y compartidos.
+
+## REGLA FIJA PARA TODAS LAS SESIONES: cada reel se piensa para llegar a quien aún no nos sigue (Coni, 26 oct)
+
+> «Eres un estratega de crecimiento en Instagram especializado en crear Reels virales. Quiero que crees SOLO 1 idea de Reel con potencial para alcanzar 150 mil visualizaciones o más, incluso si la cuenta tiene pocos seguidores. No quiero una idea genérica ni obvia. Quiero una idea pensada para que Instagram la distribuya a personas que todavía no siguen el perfil.»
+
+Cómo se aplica a cada reel:
+- **Una sola idea fuerte por reel.** Concreta, nada genérica ni obvia: una escena real, una confesión o un giro que sorprenda.
+- **Pensado para quien no sigue a Coni.** Se entiende sin conocerla y engancha a cualquier mujer de 50–60 años o más que lo vea por primera vez.
+- **Señales que hacen que Instagram lo reparta:**
+  - gancho en los 2 primeros segundos;
+  - que se vea entero o se repita (12–21 s, sin relleno);
+  - que se guarde (algo útil o para releer);
+  - que se comparta por mensaje («mándaselo a…»);
+  - comentarios fáciles con una pregunta concreta.
+- **Antes de dar por bueno un reel, se pregunta:** ¿lo compartiría una desconocida con su amiga? Si la respuesta es no, se rehace.
+- **No se promete viralidad.** A las 48 horas se miden visualizaciones, alcance a no seguidores, guardados y compartidos, y se aprende de ello.
+- Siempre junto al resto de normas: foto de Coni, nunca repetir imágenes ni frases, sin música añadida por Claude.
