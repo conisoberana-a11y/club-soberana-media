@@ -59,3 +59,10 @@ Revisado el 26 oct comparando las imágenes.
 ## Fotos que mandó Coni el 26 oct (baja resolución, unos 320×630)
 89715c77 (espejo y tocador), 7e745133 (atardecer en el mar), 04d9db5a (restaurante de noche), 7197c405 (gimnasio con pesas), d9b0dd7d (terraza con café y gafas): LIBRES. Mejor pedir el original antes de usarlas.
 - Fotos del 26 oct, ya usadas: 89715c77 / banco 33 (espejo) el 21 dic; 7e745133 / banco 34 (atardecer) el 26 dic; 04d9db5a / banco 35 (restaurante de noche) el 28 dic; d9b0dd7d / banco 37 (café con gafas) el 30 dic. Libre: 7197c405 / banco 36 (pesas).
+
+## Material nuevo de Coni (28 oct, banco compartido)
+Subido desde la sesión Estrategia. Fotos en `fotos-coni/`, vídeos en `videos-coni/`.
+- **Reel 'A los 61 hago 5 cosas que a los 35 no me atrevía' (pendiente de publicar por Coni):** USADOS en ese Reel → fotos 8afd1990 (vestido leopardo en la escalera); vídeos IMG_0244 (pasillo con gabardina), IMG_8242 (terraza con la carta), IMG_0233 (copa en el bar), IMG_8886 (playa bailando), IMG_0238 (escalera roja), IMG_0242 (banco, mirando a cámara).
+- **Reel 'A los 35 pedía perdón por todo' (publicado 25 oct):** foto joven con gafas de sol (mirador con mar) y vídeos IMG_5635 (escaleras) e IMG_5608 (plaza). Esos dos vídeos no están en el banco: no repetir.
+- **LIBRES:** foto ab7e5168 (café con latte, sonriendo, apoyada la barbilla); vídeos IMG_0241 (banco con el móvil, 4 s), IMG_9830 (abrigo negro junto al lago, 1,7 s).
+- No es foto de Coni (tarjeta ya diseñada con imagen generada, 'Ser soberana es tomar las riendas…'): no se guarda en el banco.
