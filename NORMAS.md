@@ -53,3 +53,8 @@ Cómo se aplica a cada reel:
 - **Antes de dar por bueno un reel, se pregunta:** ¿lo compartiría una desconocida con su amiga? Si la respuesta es no, se rehace.
 - **No se promete viralidad.** A las 48 horas se miden visualizaciones, alcance a no seguidores, guardados y compartidos, y se aprende de ello.
 - Siempre junto al resto de normas: foto de Coni, nunca repetir imágenes ni frases, sin música añadida por Claude.
+
+## Temas que NO se tocan (Coni, 28 oct)
+- Nada de reels ni textos sobre «pedir perdón» o disculparse.
+- Nada sobre «sentirse invisible», pasar desapercibida o no llamar la atención.
+- Los vídeos IMG_5635 e IMG_5608 (reel publicado «A los 35…») ya están usados: no repetirlos.
