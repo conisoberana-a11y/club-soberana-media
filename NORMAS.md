@@ -58,3 +58,15 @@ Cómo se aplica a cada reel:
 - Nada de reels ni textos sobre «pedir perdón» o disculparse.
 - Nada sobre «sentirse invisible», pasar desapercibida o no llamar la atención.
 - Los vídeos IMG_5635 e IMG_5608 (reel publicado «A los 35…») ya están usados: no repetirlos.
+
+## FÓRMULA VIRAL PROBADA (Coni, 30 oct): «A los 61 hago 5 cosas que a los 35 no me atrevía»
+Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos los reels siguen este molde, y el original está guardado en `referencias/reel-viral-a-los-61-5-cosas.mp4`.
+
+1. **Solo vídeo real de Coni, nada de fotos fijas.** Ella sale moviéndose en cada plano: camina, baja una escalera, brinda, mira la carta o va por la playa.
+2. **El gancho arriba**, en un recuadro oscuro semitransparente y a la izquierda, en 2 o 3 líneas. Contrapone dos edades y hace una promesa con un número, con la palabra clave en dorado o naranja. Ejemplo: «A los 61 hago / 5 cosas que a los 35 / **no me atrevía.**»
+3. **Una lista numerada con un clip por punto**, de unos 2 o 3 segundos cada uno y con cortes rápidos. Cada punto se dice en 3 a 5 palabras («1. Ceno sola en una terraza llena.»).
+4. **El texto siempre arriba**, nunca abajo, porque abajo lo tapan los botones y el pie de Instagram.
+5. **Pregunta final de una línea y llamada a compartir:** «¿Cuál harías tú?» y «Mándaselo a quien lo necesite».
+6. **Cierre** con el logo del Club y @club.soberana, en unos 3 o 4 segundos.
+7. **Duración de 18 a 22 segundos.**
+8. Escenas cotidianas con un punto de valentía o libertad, en lugares variados.
