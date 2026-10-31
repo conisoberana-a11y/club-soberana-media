@@ -70,3 +70,4 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 6. **Cierre** con el logo del Club y @club.soberana, en unos 3 o 4 segundos.
 7. **Duración de 18 a 22 segundos.**
 8. Escenas cotidianas con un punto de valentía o libertad, en lugares variados.
+- Nada sobre «salir sola de noche» (a Coni no le gusta, 31 oct).
