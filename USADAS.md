@@ -67,3 +67,9 @@ Subido desde la sesión Estrategia. Fotos en `fotos-coni/`, vídeos en `videos-c
 - **LIBRES:** foto ab7e5168 (café con latte, sonriendo, apoyada la barbilla); vídeos IMG_0241 (banco con el móvil, 4 s), IMG_9830 (abrigo negro junto al lago, 1,7 s).
 - No es foto de Coni (tarjeta ya diseñada con imagen generada, 'Ser soberana es tomar las riendas…'): no se guarda en el banco.
 - 31 oct: 4 vídeos con gabardina beige (42a573ac, entre bicis y árboles; 076a83d1, 67622cfb y 4b1a79fe, delante de las flores) usados en el reel «A los 61 me visto con 3 reglas» (reels-sin-musica/reel_estilo_3reglas.mp4).
+- 31 oct, 15 vídeos nuevos de Coni:
+  - Usados en «Salir sola de noche a los 61 me enseñó 5 cosas» (reels-sin-musica/reel_noche_5cosas.mp4): 7ca32381, b7d1c9b9, 2644898e, e8d1a337 y f8d9757c (casco antiguo de noche, vestido negro de volantes).
+  - Usados en «A los 61 mi cocina tiene 3 reglas» (reels-sin-musica/reel_cocina_3reglas.mp4): c6ee9ac5, 9cf5c63f y c1366aad (cocina, top granate).
+  - Libre: 5b559177 (jardín de noche, sofá, 2,7 s).
+  - No usar, porque son la misma noche y el mismo vestido que los reels del 28 y 30 oct: 402a9704, d0520c67, b4938857 y 97c83317 (edificio blanco).
+  - Ya editados y publicados (no reutilizar): f32802d0 (espejo) y 92c5c53d («Cosas que nadie sabe de mí»).
