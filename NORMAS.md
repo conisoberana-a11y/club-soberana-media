@@ -71,3 +71,7 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 7. **Duración de 18 a 22 segundos.**
 8. Escenas cotidianas con un punto de valentía o libertad, en lugares variados.
 - Nada sobre «salir sola de noche» (a Coni no le gusta, 31 oct).
+
+## Logo oficial (Coni, 31 oct)
+- **Único logo:** el redondo de CLUB SOBERANA (aro dorado, corona, letras CS y «CLUB SOBERANA»), **sin ninguna frase**. Archivos: `logo/logo-oficial-club-soberana-redondo.png` y la pantalla de cierre `logo/cierre-oficial-club-soberana-1080x1920.png`.
+- No usar `logo/club-soberana-cierre-centrado-1080x1920.png` (lleva la frase «Tu vida. Tu momento…»), ni logo.jpeg, ni logo-club.png («Renacer femenino +50»), ni el logo de «Coni Soberana».
