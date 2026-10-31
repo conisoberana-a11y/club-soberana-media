@@ -66,3 +66,4 @@ Subido desde la sesión Estrategia. Fotos en `fotos-coni/`, vídeos en `videos-c
 - **Reel 'A los 35 pedía perdón por todo' (publicado 25 oct):** foto joven con gafas de sol (mirador con mar) y vídeos IMG_5635 (escaleras) e IMG_5608 (plaza). Esos dos vídeos no están en el banco: no repetir.
 - **LIBRES:** foto ab7e5168 (café con latte, sonriendo, apoyada la barbilla); vídeos IMG_0241 (banco con el móvil, 4 s), IMG_9830 (abrigo negro junto al lago, 1,7 s).
 - No es foto de Coni (tarjeta ya diseñada con imagen generada, 'Ser soberana es tomar las riendas…'): no se guarda en el banco.
+- 31 oct: 4 vídeos con gabardina beige (42a573ac, entre bicis y árboles; 076a83d1, 67622cfb y 4b1a79fe, delante de las flores) usados en el reel «A los 61 me visto con 3 reglas» (reels-sin-musica/reel_estilo_3reglas.mp4).
