@@ -119,3 +119,13 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 
 ## 1 nov: propuesta 7, «A los 61 sonrío más que a los 40. Te cuento 3 razones.» (reels-sin-musica/reel_sonrio_3.mp4, PENDIENTE de aprobación)
 - Gancho: foto vestido-rojo-rosa-sonrisa. 1 «Ya no espero a que todo sea perfecto»: banco 08 (vestido naranja). 2 «Elijo con quién paso mi tiempo»: banco 11 (vestido de flores en el pasillo). 3 «Me hablo con cariño»: foto cena-india-blusa-blanca. Pregunta final «¿Y tú, qué te hace sonreír más ahora?»: banco 39, con «Mándaselo a quien te hace sonreír».
+## 1 nov: Reel «A los 61 dejé 5 cosas que no echo de menos» (sesión Estrategia; PENDIENTE de aprobación de Coni; frases aprobadas por Coni)
+- Reservados (no usar en otros reels): vídeo e5273762-IMG_9473 (fuente con escalinata, americana roja; gancho y pregunta final), 98b6be0c-IMG_9830 (lago, abrigo negro), d98dc0ac-IMG_9745 (de espaldas junto al lago); fotos playa-abrigo-negro-mirando-lado, vestido-lentejuelas, vestido-rojo-rosa-sonrisa. Final: logo/cierre-oficial-club-soberana-1080x1920.png.
+- Frases: «Dejé de dar explicaciones», «Dejé de decir sí por compromiso», «Dejé de esperar permiso», «Dejé de compararme», «Dejé de esperar el momento perfecto», «¿Cuál dejarías tú? Mándaselo a quien lo necesite».
+- Libres tras esto: 5b559177-IMG_9022 (jardín de noche con copa), playa-abrigo-negro-2 (casi igual a mirando-lado: no usar), resto de vestido-rojo-*.
+
+## 1 nov: Reel «A los 61 me repito 5 frases cada mañana» (sesión Estrategia; PENDIENTE de aprobación de Coni)
+- Reservados: vídeo 5763a349-IMG_4984 (barandilla del banco, gabardina y gafas; gancho); fotos ab7e5168 (café con latte), gabardina-lago, cena-india-blusa-blanca, 19a76e4b (sillón de cuero), vestido-rojo-largo-comedor, cena-vestido-blanco-mirando-lado. Final: cierre oficial.
+- Frases: «Hoy me elijo», «Mi cuerpo me lleva lejos», «No tengo que demostrar nada», «Mi ritmo es el bueno», «Lo mejor aún está por llegar», «¿Cuál te llevas hoy? Mándaselo a quien lo necesite».
+- No se usó 7197c405 (gimnasio con pesas): solo 313×625, sin calidad para vídeo.
+- AVISO (sesión retomamos, 1 nov): la foto playa-abrigo-negro-1, usada en reel_caprichos_4 (APROBADO, 16 nov), es casi igual a playa-abrigo-negro-mirando-lado, que Estrategia reservó para «Dejé 5 cosas». Hay que cambiar una de las dos. También se parecen «Dejé de esperar el momento perfecto» (Estrategia) y «Ya no espero a que todo sea perfecto» (propuesta 7 de retomamos). La propuesta 7 queda EN PAUSA para cambiar esa frase y las imágenes que coinciden con lo reservado (vestido-rojo-rosa-sonrisa y cena-india-blusa-blanca).
