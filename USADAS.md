@@ -105,3 +105,4 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 ## 1 nov: propuesta 5, «A los 61 me dijeron que esto ya no se lleva. Y lo llevo igual.» (reels-sin-musica/reel_nolleva_4.mp4, PENDIENTE de aprobación)
 - Usa: gancho banco 37 (casco antiguo, muro); 1 la melena, 98b6be0c (lago, abrigo negro); 2 el rojo, la foto fotos-coni/vestido-rojo-largo-sonrisa.jpg con zoom suave; 3 los vestidos que brillan, dd4512fa-IMG_9287 (vestido largo de lentejuelas); 4 los tacones, banco 35 (casco antiguo, andando); pregunta final, banco 39 (salida del restaurante).
 - Material nuevo: fotos-coni/vestido-rojo-*.jpg (5 fotos con el vestido rojo largo y la rosa) y el vídeo dd4512fa. El vídeo f9d47e76 es un reel YA PUBLICADO en Instagram (vestido dorado de lentejuelas, lleva la interfaz de Instagram): NO USAR.
+- 1 nov: 5 fotos más con el vestido rojo, sentada a la mesa con la copa de postre (fotos-coni/vestido-rojo-mesa-*.jpg): LIBRES.
