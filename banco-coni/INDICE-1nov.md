@@ -121,3 +121,4 @@ Escenas ya publicadas o editadas (NO reutilizar): f32802d0 (espejo) y 92c5c53d (
 - banco-coni/videos/77-fd0650c7-IMG_9770.mov
 - banco-coni/videos/78-fd339245-IMG_9771.mov
 - 1 nov (2): fotos con el vestido rojo largo y la rosa, y el vídeo IMG_9287 (vestido largo de lentejuelas)
+- 1 nov (3): 5 fotos con el vestido rojo, sentada a la mesa
