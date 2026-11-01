@@ -88,3 +88,4 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - Vídeos: d0519e8d-IMG_4909 (andando por el paseo del lago), USADO en reel_estilo_3reglas para «3. Paso firme y la cabeza alta» y para la pregunta final. Sustituye a 4b1a79fe, que queda LIBRE. LIBRES: 79fe1311-IMG_4961 (sentada en el banco) y 5763a349-IMG_4984 (apoyada en la barandilla del banco, con las gafas).
 - 239f364a y 78ea0a01 son duplicados de 4b1a79fe y 076a83d1: no se guardan.
 - Fotos: fotos-coni/gabardina-banco-1.jpg, gabardina-banco-2.jpg (sentada en el banco, piernas cruzadas) y gabardina-lago.jpg (de pie junto al lago, buena calidad): LIBRES.
+- 1 nov: reel_11dic_3temas rehecho a petición de Coni (no quiere que salga siempre bebiendo). El gancho es el vídeo 13 (cena), la regla 1 el 09 (vestido naranja), la 2 el 20 (pasillo con gabardina) y la 3 más la pregunta final el 79fe1311 (banco con gabardina). El vídeo 12 queda LIBRE.
