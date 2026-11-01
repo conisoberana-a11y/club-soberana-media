@@ -100,3 +100,8 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 - La clave es el gancho: número + contraste de edades + Coni en vídeo real desde el primer fotograma.
 - El texto del post termina con una invitación a seguirla («sígueme: cada semana, una cosa más…»). Repetirlo en todos con otras palabras.
 - Los reels de solo frase o con foto fija se quedan en 20-200 visualizaciones.
+
+## REGLA FIJA (1 nov): EL TEXTO NUNCA TAPA LA CARA DE CONI
+- Revisar cada clip: si la cabeza está arriba del encuadre, el recuadro baja (centrado, a y≈1380, por encima de la zona de la descripción de Instagram), o va donde no haya cara.
+- El recuadro debe ser elegante: fondo oscuro translúcido (alfa 150), esquinas suaves, filete dorado fino y letra Lora. Nada estridente.
+- Los reels aprobados se envían a Coni por email el día antes, con el texto, para que ella añada la música. Aprobados: estilo (4 nov) y lujo (6 nov).
