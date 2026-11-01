@@ -121,3 +121,8 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - Reservados (no usar en otros reels): vídeo e5273762-IMG_9473 (fuente con escalinata, americana roja; gancho y pregunta final), 98b6be0c-IMG_9830 (lago, abrigo negro), d98dc0ac-IMG_9745 (de espaldas junto al lago); fotos playa-abrigo-negro-mirando-lado, vestido-lentejuelas, vestido-rojo-rosa-sonrisa. Final: logo/cierre-oficial-club-soberana-1080x1920.png.
 - Frases: «Dejé de dar explicaciones», «Dejé de decir sí por compromiso», «Dejé de esperar permiso», «Dejé de compararme», «Dejé de esperar el momento perfecto», «¿Cuál dejarías tú? Mándaselo a quien lo necesite».
 - Libres tras esto: 5b559177-IMG_9022 (jardín de noche con copa), playa-abrigo-negro-2 (casi igual a mirando-lado: no usar), resto de vestido-rojo-*.
+
+## 1 nov: Reel «A los 61 me repito 5 frases cada mañana» (sesión Estrategia; PENDIENTE de aprobación de Coni)
+- Reservados: vídeo 5763a349-IMG_4984 (barandilla del banco, gabardina y gafas; gancho); fotos ab7e5168 (café con latte), gabardina-lago, cena-india-blusa-blanca, 19a76e4b (sillón de cuero), vestido-rojo-largo-comedor, cena-vestido-blanco-mirando-lado. Final: cierre oficial.
+- Frases: «Hoy me elijo», «Mi cuerpo me lleva lejos», «No tengo que demostrar nada», «Mi ritmo es el bueno», «Lo mejor aún está por llegar», «¿Cuál te llevas hoy? Mándaselo a quien lo necesite».
+- No se usó 7197c405 (gimnasio con pesas): solo 313×625, sin calidad para vídeo.
