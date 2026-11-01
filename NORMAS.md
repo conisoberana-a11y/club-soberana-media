@@ -75,3 +75,11 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 ## Logo oficial (Coni, 31 oct)
 - **Único logo:** el redondo de CLUB SOBERANA (aro dorado, corona, letras CS y «CLUB SOBERANA»), **sin ninguna frase**. Archivos: `logo/logo-oficial-club-soberana-redondo.png` y la pantalla de cierre `logo/cierre-oficial-club-soberana-1080x1920.png`.
 - No usar `logo/club-soberana-cierre-centrado-1080x1920.png` (lleva la frase «Tu vida. Tu momento…»), ni logo.jpeg, ni logo-club.png («Renacer femenino +50»), ni el logo de «Coni Soberana».
+
+## REGLA FIJA (1 nov): UN REEL CADA VEZ, CON APROBACIÓN DE CONI
+- Coni no está convencida con ningún reel preparado antes del 1 nov. Se rehacen todos.
+- Se trabaja de uno en uno: se prepara un reel, se le envía, y hasta que ella lo apruebe no se empieza el siguiente.
+- Nada se programa ni se le envía por email sin su aprobación expresa. En la hoja, las filas sin aprobar quedan «En pausa: rehacer, Coni aprueba uno a uno».
+- Primera imagen: Coni tiene que salir favorecida (mirando a cámara o con una sonrisa suave), nunca a mitad de un gesto o de una palabra. Revisar el fotograma 0 de cerca antes de enviar.
+- Referencia de viralidad: «A los 61 hago 5 cosas que a los 35 no me atrevía» llegó a casi 6.000 visualizaciones. Todos los reels siguen esa fórmula.
+- Aprobados: reel_estilo_3reglas.mp4 (4 nov).
