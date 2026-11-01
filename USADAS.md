@@ -100,3 +100,4 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - Propuesta 4, «A los 61 tengo 4 citas conmigo que no cancelo nunca» (reels-sin-musica/reel_citas_4.mp4, PENDIENTE de aprobación). Usa: gancho 10bbf02e; 1 e9bb3a94 (bosque); 2 2e68e268 (cataratas del Rin); 3 banco 27 (cocina granate); 4 59515b8f; pregunta final 20608323.
 - LIBRES: e5273762 y 67fde86c.
 - Fotos nuevas, LIBRES: fotos-coni/playa-abrigo-negro-1.jpg, playa-abrigo-negro-2.jpg, playa-abrigo-negro-mirando-lado.jpg, vestido-lentejuelas.jpg y navidad-vestido-rojo-arbol.jpg (ideal para diciembre).
+- 1 nov: en reel_citas_4, la cita 3 pasa a ser el banco 28 (cocina, sirviendo agua, de 1,5 a 4,5 s, sin beber), a petición de Coni. No hay más vídeos de cocina en el banco: si quiere otro, tendrá que grabarlo.
