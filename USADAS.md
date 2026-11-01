@@ -89,3 +89,4 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - 239f364a y 78ea0a01 son duplicados de 4b1a79fe y 076a83d1: no se guardan.
 - Fotos: fotos-coni/gabardina-banco-1.jpg, gabardina-banco-2.jpg (sentada en el banco, piernas cruzadas) y gabardina-lago.jpg (de pie junto al lago, buena calidad): LIBRES.
 - 1 nov: reel_11dic_3temas rehecho a petición de Coni (no quiere que salga siempre bebiendo). El gancho es el vídeo 13 (cena), la regla 1 el 09 (vestido naranja), la 2 el 20 (pasillo con gabardina) y la 3 más la pregunta final el 79fe1311 (banco con gabardina). El vídeo 12 queda LIBRE.
+- 1 nov: en reel_11dic_3temas, la regla 2 deja el vídeo 20 y pasa a e9bb3a94-IMG_9765 (bosque, abrigo malva). Motivo: el banco 20 (pasillo con gabardina) es la misma escena que IMG_0244, que ya salió en el reel viral. Tampoco se pueden usar el banco 14 (es IMG_0238, escalera roja) ni el 17/19 (son IMG_0241/0242, banco con el móvil): son escenas del reel viral.
