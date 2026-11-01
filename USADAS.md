@@ -108,3 +108,5 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - 1 nov: 5 fotos más con el vestido rojo, sentada a la mesa con la copa de postre (fotos-coni/vestido-rojo-mesa-*.jpg): LIBRES.
 - 1 nov (4): fotos de Navidad con el vestido gris y las botas blancas junto al árbol dorado (3), playa con americana marrón y botas blancas, y centro comercial en el sillón amarillo. Todas LIBRES y muy buenas para diciembre.
 - Vídeo f75e04a7 («Felices Fiestas», vestido negro de lentejuelas, escalera con árbol): es una historia YA EDITADA, con texto, ubicación y contador. NO USAR tal cual, porque parece ya publicada.
+- 1 nov: reel_nolleva_4 corregido. La foto roja ya conserva su color original (antes salía oscurecida por una conversión de color mal hecha) y la pregunta final pasa a ir sobre el banco 38 (giro en el casco antiguo). El banco 39 queda LIBRE.
+- REGLA: las fotos dentro de un reel deben mantener exactamente su tono original; comprobarlo comparando con la foto antes de enviar.

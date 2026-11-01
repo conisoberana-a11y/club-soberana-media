@@ -75,7 +75,7 @@ for i,s in enumerate(segs):
         # foto: zoom lento y suave (Ken Burns) para que tenga movimiento
         ins+=['-loop','1','-framerate','30','-t',str(s['d']),'-i',s['clip']]
         nf=int(s['d']*30)
-        fc.append(f"[{i}:v]scale={2*W}:{2*H}:force_original_aspect_ratio=increase:flags=lanczos,crop={2*W}:{2*H},zoompan=z='1+0.06*on/{nf}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps=30,unsharp=5:5:0.4:5:5:0.0,format=yuv420p,setsar=1[c{i}]")
+        fc.append(f"[{i}:v]scale={2*W}:{2*H}:force_original_aspect_ratio=increase:flags=lanczos:in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,crop={2*W}:{2*H},zoompan=z='1+0.06*on/{nf}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps=30,unsharp=5:5:0.4:5:5:0.0,format=yuv420p,setsar=1[c{i}]")
         s['_t0']=t; s['_dur']=s['d']; t+=s['d']; continue
     ins+=['-ss',str(s.get('ss',0)),'-t',str(s['d']),'-i',s['clip']]
     fc.append(f"[{i}:v]setpts=PTS/{sp},scale={int(W*z)}:{int(H*z)}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},unsharp=5:5:0.55:5:5:0.0,fps=30,format=yuv420p,setsar=1[c{i}]")
@@ -99,5 +99,5 @@ L=cfg.get('logo_secs',3.0)
 ins+=['-loop','1','-t',str(L),'-i',cfg['logo']]
 fc.append(f"[{k}:v]scale={W}:{H},fps=30,format=yuv420p,setsar=1,fade=t=in:st=0:d=0.4[lg]")
 fc.append(f"[{cur}][lg]concat=n=2:v=1:a=0,format=yuv420p[v]")
-subprocess.run(['ffmpeg','-y','-loglevel','error','-nostdin',*ins,'-filter_complex',';'.join(fc),'-map','[v]','-an','-c:v','libx264','-preset','slow','-crf','16','-profile:v','high','-level','4.2','-maxrate','14M','-bufsize','28M','-tune','film','-g','60','-movflags','+faststart',out],check=True)
+subprocess.run(['ffmpeg','-y','-loglevel','error','-nostdin',*ins,'-filter_complex',';'.join(fc),'-map','[v]','-an','-c:v','libx264','-preset','slow','-crf','16','-profile:v','high','-level','4.2','-maxrate','14M','-bufsize','28M','-tune','film','-g','60','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-movflags','+faststart',out],check=True)
 print(out, round(t+L,1))
