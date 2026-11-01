@@ -78,3 +78,7 @@ Subido desde la sesión Estrategia. Fotos en `fotos-coni/`, vídeos en `videos-c
 - Vídeos del banco usados: 07 (terraza de noche, gancho), 06 (cena en la terraza), 10 (vestido floral en la calle), 22 (sofá rojo leyendo), 11 (vestido floral bajo la pérgola) y 30 (jardín de noche con copa).
 - Estas escenas sustituyen a los reels de foto del 2, 7 y 12 dic, que quedan como huecos a la espera de material nuevo. El vídeo 15 (ventana) no sale porque Coni no aparece.
 - Frases usadas: «Cenar fuera un día cualquiera», «Estrenar vestido un martes», «Una tarde entera leyendo», «Arreglarme solo para mí», «Una copa al anochecer», «¿Y tú, qué lujo te regalas ya?», «Mándaselo a tu amiga que todo lo deja para luego».
+
+## 1 nov: el 11 dic cambia de tema
+Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir sola de noche». En su lugar va «A los 61 hay 3 temas que no saco en una cena» (reels-sin-musica/reel_11dic_3temas.mp4), con la fórmula viral y los mismos vídeos 12 y 13 (cena con blusa blanca).
+- Frases usadas: «Las dietas», «La edad que tengo», «Lo que piensen los demás», «¿Y tú, de qué te gusta hablar en la mesa?», «Mándaselo a tu amiga de las sobremesas largas».
