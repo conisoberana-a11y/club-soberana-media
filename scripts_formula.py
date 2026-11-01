@@ -75,7 +75,7 @@ for i,s in enumerate(segs):
         # foto: zoom lento y suave (Ken Burns) para que tenga movimiento
         ins+=['-loop','1','-framerate','30','-t',str(s['d']),'-i',s['clip']]
         nf=int(s['d']*30)
-        fc.append(f"[{i}:v]scale={2*W}:{2*H}:force_original_aspect_ratio=increase:flags=lanczos:in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,crop={2*W}:{2*H},zoompan=z='1+0.06*on/{nf}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps=30,unsharp=5:5:0.4:5:5:0.0,format=yuv420p,setsar=1[c{i}]")
+        fc.append(f"[{i}:v]scale={2*W}:{2*H}:force_original_aspect_ratio=increase:flags=lanczos:in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,crop={2*W}:{2*H},zoompan=z='1+0.06*on/{nf}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps=30,unsharp=5:5:0.4:5:5:0.0{(','+s['fx']) if s.get('fx') else ''},format=yuv420p,setsar=1[c{i}]")
         s['_t0']=t; s['_dur']=s['d']; t+=s['d']; continue
     ins+=['-ss',str(s.get('ss',0)),'-t',str(s['d']),'-i',s['clip']]
     fc.append(f"[{i}:v]setpts=PTS/{sp},scale={int(W*z)}:{int(H*z)}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},unsharp=5:5:0.55:5:5:0.0,fps=30,format=yuv420p,setsar=1[c{i}]")
