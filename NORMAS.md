@@ -83,3 +83,10 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 - Primera imagen: Coni tiene que salir favorecida (mirando a cámara o con una sonrisa suave), nunca a mitad de un gesto o de una palabra. Revisar el fotograma 0 de cerca antes de enviar.
 - Referencia de viralidad: «A los 61 hago 5 cosas que a los 35 no me atrevía» llegó a casi 6.000 visualizaciones. Todos los reels siguen esa fórmula.
 - Aprobados: reel_estilo_3reglas.mp4 (4 nov).
+
+## REGLA FIJA (1 nov): MÁXIMA NITIDEZ
+- Coni ve muchos reels borrosos. Desde ahora todos se exportan en alta calidad: escalado lanczos, enfoque suave (unsharp 0.55), x264 preset slow, crf 16, perfil high, hasta 14 Mbps.
+- Los reels que publica Coni a mano pueden pesar más (25-35 MB). Si alguno va por Make a Instagram, hacer una copia aparte por debajo de 5 Mbps solo para Make.
+- Nunca usar como fuente fotos de baja resolución (las del 26 oct, de unos 320×630): pedir el original.
+- Revisar un fotograma ampliado antes de enviar.
+- Recordar a Coni que active en Instagram «Subir con la máxima calidad» y que suba por wifi.
