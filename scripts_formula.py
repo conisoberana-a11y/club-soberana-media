@@ -35,7 +35,8 @@ def faces_at(clip,src_t,zoom=1.0):
     if _DET is None:
         _DET=cv2.FaceDetectorYN.create(S+'models/yunet.onnx','',(540,960),0.55,0.3,50)
     vf=f"scale={int(W*zoom)}:{int(H*zoom)}:force_original_aspect_ratio=increase,crop={W}:{H},scale=540:960"
-    r=subprocess.run(['ffmpeg','-nostdin','-v','error','-ss',f'{src_t:.3f}','-i',clip,'-frames:v','1','-vf',vf,'-f','rawvideo','-pix_fmt','bgr24','-'],capture_output=True)
+    isimg=clip.lower().endswith(('.jpg','.jpeg','.png','.webp'))
+    r=subprocess.run(['ffmpeg','-nostdin','-v','error']+([] if isimg else ['-ss',f'{src_t:.3f}'])+['-i',clip,'-frames:v','1','-vf',vf,'-f','rawvideo','-pix_fmt','bgr24','-'],capture_output=True)
     if len(r.stdout)!=540*960*3: return []
     img=np.frombuffer(r.stdout,np.uint8).reshape(960,540,3)
     _,f=_DET.detect(img)
@@ -69,8 +70,14 @@ ins=[];fc=[];ov=[]
 t=0
 for i,s in enumerate(segs):
     sp=s.get('speed',1.0); dur=s['d']/sp
-    ins+=['-ss',str(s.get('ss',0)),'-t',str(s['d']),'-i',s['clip']]
     z=s.get("zoom",1.0)
+    if s['clip'].lower().endswith(('.jpg','.jpeg','.png','.webp')):
+        # foto: zoom lento y suave (Ken Burns) para que tenga movimiento
+        ins+=['-loop','1','-framerate','30','-t',str(s['d']),'-i',s['clip']]
+        nf=int(s['d']*30)
+        fc.append(f"[{i}:v]scale={2*W}:{2*H}:force_original_aspect_ratio=increase:flags=lanczos,crop={2*W}:{2*H},zoompan=z='1+0.06*on/{nf}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps=30,unsharp=5:5:0.4:5:5:0.0,format=yuv420p,setsar=1[c{i}]")
+        s['_t0']=t; s['_dur']=s['d']; t+=s['d']; continue
+    ins+=['-ss',str(s.get('ss',0)),'-t',str(s['d']),'-i',s['clip']]
     fc.append(f"[{i}:v]setpts=PTS/{sp},scale={int(W*z)}:{int(H*z)}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},unsharp=5:5:0.55:5:5:0.0,fps=30,format=yuv420p,setsar=1[c{i}]")
     s['_t0']=t; s['_dur']=dur; t+=dur
 n=len(segs)

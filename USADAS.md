@@ -101,3 +101,7 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - LIBRES: e5273762 y 67fde86c.
 - Fotos nuevas, LIBRES: fotos-coni/playa-abrigo-negro-1.jpg, playa-abrigo-negro-2.jpg, playa-abrigo-negro-mirando-lado.jpg, vestido-lentejuelas.jpg y navidad-vestido-rojo-arbol.jpg (ideal para diciembre).
 - 1 nov: en reel_citas_4, la cita 3 pasa a ser el banco 28 (cocina, sirviendo agua, de 1,5 a 4,5 s, sin beber), a petición de Coni. No hay más vídeos de cocina en el banco: si quiere otro, tendrá que grabarlo.
+
+## 1 nov: propuesta 5, «A los 61 me dijeron que esto ya no se lleva. Y lo llevo igual.» (reels-sin-musica/reel_nolleva_4.mp4, PENDIENTE de aprobación)
+- Usa: gancho banco 37 (casco antiguo, muro); 1 la melena, 98b6be0c (lago, abrigo negro); 2 el rojo, la foto fotos-coni/vestido-rojo-largo-sonrisa.jpg con zoom suave; 3 los vestidos que brillan, dd4512fa-IMG_9287 (vestido largo de lentejuelas); 4 los tacones, banco 35 (casco antiguo, andando); pregunta final, banco 39 (salida del restaurante).
+- Material nuevo: fotos-coni/vestido-rojo-*.jpg (5 fotos con el vestido rojo largo y la rosa) y el vídeo dd4512fa. El vídeo f9d47e76 es un reel YA PUBLICADO en Instagram (vestido dorado de lentejuelas, lleva la interfaz de Instagram): NO USAR.
