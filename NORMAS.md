@@ -82,7 +82,7 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 - Nada se programa ni se le envía por email sin su aprobación expresa. En la hoja, las filas sin aprobar quedan «En pausa: rehacer, Coni aprueba uno a uno».
 - Primera imagen: Coni tiene que salir favorecida (mirando a cámara o con una sonrisa suave), nunca a mitad de un gesto o de una palabra. Revisar el fotograma 0 de cerca antes de enviar.
 - Referencia de viralidad: «A los 61 hago 5 cosas que a los 35 no me atrevía» llegó a casi 6.000 visualizaciones. Todos los reels siguen esa fórmula.
-- Aprobados: reel_estilo_3reglas.mp4 (4 nov), reel_lujo_5momentos.mp4 (6 nov), reel_11dic_3temas.mp4 (9 nov) y reel_citas_4.mp4 (11 nov).
+- Aprobados: reel_estilo_3reglas.mp4 (4 nov), reel_lujo_5momentos.mp4 (6 nov), reel_11dic_3temas.mp4 (9 nov), reel_citas_4.mp4 (11 nov) y reel_nolleva_4.mp4 (13 nov).
 
 ## REGLA FIJA (1 nov): MÁXIMA NITIDEZ
 - Coni ve muchos reels borrosos. Desde ahora todos se exportan en alta calidad: escalado lanczos, enfoque suave (unsharp 0.55), x264 preset slow, crf 16, perfil high, hasta 14 Mbps.
