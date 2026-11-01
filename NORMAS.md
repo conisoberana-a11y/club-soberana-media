@@ -74,7 +74,7 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 
 ## Logo oficial (Coni, 31 oct)
 - **Único logo:** el redondo de CLUB SOBERANA (aro dorado, corona, letras CS y «CLUB SOBERANA»), **sin ninguna frase**. Archivos: `logo/logo-oficial-club-soberana-redondo.png` y la pantalla de cierre `logo/cierre-oficial-club-soberana-1080x1920.png`.
-- No usar `logo/club-soberana-cierre-centrado-1080x1920.png` (lleva la frase «Tu vida. Tu momento…»), ni logo.jpeg, ni logo-club.png («Renacer femenino +50»), ni el logo de «Coni Soberana».
+- No usar el cierre antiguo de baja calidad `logo/club-soberana-cierre-centrado-1080x1920.png`, ni logo.jpeg, ni logo-club.png («Renacer femenino +50»), ni el logo de «Coni Soberana».
 
 ## REGLA FIJA (1 nov): UN REEL CADA VEZ, CON APROBACIÓN DE CONI
 - Coni no está convencida con ningún reel preparado antes del 1 nov. Se rehacen todos.
@@ -90,3 +90,13 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 - Nunca usar como fuente fotos de baja resolución (las del 26 oct, de unos 320×630): pedir el original.
 - Revisar un fotograma ampliado antes de enviar.
 - Recordar a Coni que active en Instagram «Subir con la máxima calidad» y que suba por wifi.
+
+## CIERRE CON FRASE (1 nov, cambio pedido por Coni)
+- Coni quiere que algunos reels terminen con la frase, y no solo con el logo: `logo/cierre-frase-club-soberana-1080x1920.png` (logo redondo, línea dorada, «TU VIDA. TU MOMENTO / VIVE A TU MANERA», en HD). Se deja 3 s.
+- Se usa en los reels de mensaje vital o emocional (regalarse, elegirse, libertad). En los de consejos prácticos basta el cierre del logo solo.
+
+## DATOS DEL REEL VIRAL (Metricool, 1 nov)
+«A los 61 hago 5 cosas que a los 35 no me atrevía» (29 oct): 4.621 visualizaciones en Metricool (Coni ve casi 6.000), 3.802 cuentas alcanzadas, 52 me gusta, 10 comentarios, 5 guardados y 2 compartidos. El 80,9 % se queda más de 3 s, frente al 30-50 % del resto, y la media de visionado es de 10,6 s.
+- La clave es el gancho: número + contraste de edades + Coni en vídeo real desde el primer fotograma.
+- El texto del post termina con una invitación a seguirla («sígueme: cada semana, una cosa más…»). Repetirlo en todos con otras palabras.
+- Los reels de solo frase o con foto fija se quedan en 20-200 visualizaciones.
