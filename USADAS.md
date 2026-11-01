@@ -113,6 +113,11 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - 1 nov: reel_nolleva_4 rehecho. La melena pasa a ser la foto playa-americana-marron-botas-blancas, los tacones el banco 38 y la pregunta final la foto playa-abrigo-negro-mirando-lado. Quedan LIBRES 98b6be0c y el banco 35.
 - 1 nov: reel_nolleva_4, la pregunta final pasa a la foto navidad-centro-comercial-sillon-botas. La foto playa-abrigo-negro-mirando-lado queda LIBRE.
 
-## 1 nov: propuesta 6, «A los 61 me doy 4 caprichos sin sentirme culpable» (reels-sin-musica/reel_caprichos_4.mp4, APROBADO, 16 nov)
+## 1 nov: propuesta 6, «A los 61 me doy 4 caprichos sin sentirme culpable» (reels-sin-musica/reel_caprichos_4.mp4, PENDIENTE de aprobación)
 - Gancho: foto vestido-rojo-mesa-mano-barbilla. 1 «Sacar la tetera bonita solo para mí»: te-tetera-granate. 2 «Pedir siempre el postre»: vestido-rojo-mesa-cuchara-sonrisa, con el rojo suavizado a petición de Coni. 3 «Comer fuera sin celebrar nada»: vídeo 67fde86c. 4 «Pasear por la playa en pleno invierno»: playa-abrigo-negro-1. Pregunta final «¿Y tú, cuál es tu capricho favorito?» sobre cena-vestido-blanco-sonrisa, con «Mándaselo a tu amiga más golosa».
 - A Coni NO le gusta mencionar a la madre («lo que mi madre llamaría…»): no usarlo.
+
+## 1 nov: Reel «A los 61 dejé 5 cosas que no echo de menos» (sesión Estrategia; PENDIENTE de aprobación de Coni; frases aprobadas por Coni)
+- Reservados (no usar en otros reels): vídeo e5273762-IMG_9473 (fuente con escalinata, americana roja; gancho y pregunta final), 98b6be0c-IMG_9830 (lago, abrigo negro), d98dc0ac-IMG_9745 (de espaldas junto al lago); fotos playa-abrigo-negro-mirando-lado, vestido-lentejuelas, vestido-rojo-rosa-sonrisa. Final: logo/cierre-oficial-club-soberana-1080x1920.png.
+- Frases: «Dejé de dar explicaciones», «Dejé de decir sí por compromiso», «Dejé de esperar permiso», «Dejé de compararme», «Dejé de esperar el momento perfecto», «¿Cuál dejarías tú? Mándaselo a quien lo necesite».
+- Libres tras esto: 5b559177-IMG_9022 (jardín de noche con copa), playa-abrigo-negro-2 (casi igual a mirando-lado: no usar), resto de vestido-rojo-*.
