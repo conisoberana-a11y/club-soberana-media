@@ -94,3 +94,9 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - Fotos nuevas, LIBRES: fotos-coni/cena-india-blusa-blanca.jpg, te-tetera-granate.jpg, cena-vestido-blanco-mirando-plato.jpg, cena-vestido-blanco-sonrisa.jpg y cena-vestido-blanco-mirando-lado.jpg.
 - 1 nov: reel_11dic_3temas, la pregunta final pasa a ir sobre el vídeo 12 (cena con blusa blanca, mirando a un lado, sin beber) y dice «¿Y a ti, de qué te gusta hablar?». Coni prefiere «¿Y a ti…?» a «¿Y tú…?».
 - 1 nov: reel_11dic_3temas, la regla 3 pasa a ir sobre 79fe1311 (banco con gabardina y gafas, mirando a lo lejos), a petición de Coni. El vídeo c8aa11b2 (chalet, postre) queda LIBRE.
+
+## 1 nov: material nuevo de Coni (jardín con la americana roja, restaurante, playa y Navidad)
+- Vídeos: 10bbf02e-IMG_9423 (camino del jardín, americana roja), 20608323-IMG_9402 (bajando escaleras, americana roja), 59515b8f-IMG_9422 (fuente, top negro), e5273762-IMG_9473 (fuente con escalinata, americana roja) y 67fde86c-IMG_1752 (restaurante, comiendo).
+- Propuesta 4, «A los 61 tengo 4 citas conmigo que no cancelo nunca» (reels-sin-musica/reel_citas_4.mp4, PENDIENTE de aprobación). Usa: gancho 10bbf02e; 1 e9bb3a94 (bosque); 2 2e68e268 (cataratas del Rin); 3 banco 27 (cocina granate); 4 59515b8f; pregunta final 20608323.
+- LIBRES: e5273762 y 67fde86c.
+- Fotos nuevas, LIBRES: fotos-coni/playa-abrigo-negro-1.jpg, playa-abrigo-negro-2.jpg, playa-abrigo-negro-mirando-lado.jpg, vestido-lentejuelas.jpg y navidad-vestido-rojo-arbol.jpg (ideal para diciembre).
