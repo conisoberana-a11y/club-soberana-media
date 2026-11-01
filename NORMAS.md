@@ -111,3 +111,7 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 
 ## Piernas (1 nov, aclarado por Coni)
 - No hay problema en que se le vean las piernas. Solo no le gustó el vídeo del jardín de noche (banco 30). El vestido naranja (08 y 09), el banco con la gabardina y sus fotos sentada se pueden usar.
+
+## REGLA FIJA (1 nov): ZONA SEGURA DE INSTAGRAM
+- Instagram tapa la franja de arriba (unos 220 px de 1920, con «Reels» y la cámara) y la de abajo (desde unos 1550 px: descripción, nombre y botones; los botones van a la derecha).
+- El texto va siempre entre y≈225 y y≈1500, sin tapar nunca la cara. Si no cabe arriba sin tocar la cabeza, se reduce a 1-2 líneas más pequeñas o se pasa a la parte central-baja.
