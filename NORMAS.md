@@ -115,3 +115,11 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 ## REGLA FIJA (1 nov): ZONA SEGURA DE INSTAGRAM
 - Instagram tapa la franja de arriba (unos 220 px de 1920, con «Reels» y la cámara) y la de abajo (desde unos 1550 px: descripción, nombre y botones; los botones van a la derecha).
 - El texto va siempre entre y≈225 y y≈1500, sin tapar nunca la cara. Si no cabe arriba sin tocar la cabeza, se reduce a 1-2 líneas más pequeñas o se pasa a la parte central-baja.
+
+## REGLA FIJA (1 nov): COLOCACIÓN AUTOMÁTICA DEL TEXTO SEGÚN LA CARA
+- Coni ha visto que el texto le tapaba la cara en algún momento. Ahora el generador (`scripts_formula.py`) detecta la cara en todos los fotogramas de cada clip (detector YuNet de OpenCV) y coloca el recuadro donde nunca la toca, siempre dentro de la zona segura de Instagram (y entre 235 y 1530). Si no hay sitio, reduce la letra.
+- Revisar igualmente una hoja de contacto antes de enviar.
+- Evitar clips con la cámara movida (el banco 27 y c6ee9ac5 se mueven). Para la cocina, usar el banco 29 o c1366aad.
+
+## Preguntas finales
+- Con «gustar» se escribe «¿Y a ti, de qué te gusta…?». Con los demás verbos, Coni prefiere «¿Y tú…?», por ejemplo «¿Y tú, qué cita no cancelarías?».
