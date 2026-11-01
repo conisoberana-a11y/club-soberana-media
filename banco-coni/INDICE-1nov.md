@@ -1,0 +1,122 @@
+# Banco común de Coni: material añadido el 1 nov
+
+Aquí está TODO el material que Coni ha mandado a la sesión «retomamos», para que lo usen todas las sesiones. Las fotos van de la 38 en adelante y los vídeos de la 42 en adelante. Cada archivo conserva su código original (por ejemplo, 5763a349-IMG_4984).
+
+ANTES DE USAR NADA, revisa qué está publicado o usado en:
+- `USADAS.md` de conisoberana-a11y/club-soberana-media (rama claude/retomamos-dbtxxf)
+- `NORMAS.md` de esa misma rama, con las reglas de Coni: no repetir imágenes ni frases, que el texto no tape la cara, el cierre con «Tu vida. Tu momento», etc.
+
+Escenas del reel viral «A los 61 hago 5 cosas que a los 35 no me atrevía» (NO reutilizar): IMG_0244 (pasillo con gabardina), IMG_8242 (terraza con la carta), IMG_0233 (copa en el bar), IMG_8886 (playa bailando), IMG_0238 (escalera roja), IMG_0242 (banco), y la foto 8afd1990 (vestido de leopardo).
+Escenas ya publicadas o editadas (NO reutilizar): f32802d0 (espejo) y 92c5c53d («Cosas que nadie sabe de mí»).
+
+## Archivos añadidos
+- banco-coni/fotos/38-082c7fe0-image.jpg
+- banco-coni/fotos/39-0a3497e4-image.jpg
+- banco-coni/fotos/40-13a547b3-image.jpg
+- banco-coni/fotos/41-16bf91c9-image.jpg
+- banco-coni/fotos/42-19a76e4b-image.jpg
+- banco-coni/fotos/43-211209c1-image.jpg
+- banco-coni/fotos/44-24a22496-image.jpg
+- banco-coni/fotos/45-27dabb68-image.jpg
+- banco-coni/fotos/46-282c0377-image.jpg
+- banco-coni/fotos/47-305db9b3-image.jpg
+- banco-coni/fotos/48-31500f28-image.jpg
+- banco-coni/fotos/49-32ecb3c9-image.jpg
+- banco-coni/fotos/50-34f2c802-image.jpg
+- banco-coni/fotos/51-36bc2e25-image.jpg
+- banco-coni/fotos/52-41008dff-image.jpg
+- banco-coni/fotos/53-445ac379-image.jpg
+- banco-coni/fotos/54-4ac5fde3-image.jpg
+- banco-coni/fotos/55-53159aa7-image.jpg
+- banco-coni/fotos/56-5ce25971-image.jpg
+- banco-coni/fotos/57-5e04ee31-image.jpg
+- banco-coni/fotos/58-609860bb-image.jpg
+- banco-coni/fotos/59-63834acb-image.jpg
+- banco-coni/fotos/60-7ce39e8d-image.jpg
+- banco-coni/fotos/61-7d43e582-image.jpg
+- banco-coni/fotos/62-80edf25a-image.jpg
+- banco-coni/fotos/63-82b93236-image.jpg
+- banco-coni/fotos/64-82dfe068-image.jpg
+- banco-coni/fotos/65-8afd1990-image.jpg
+- banco-coni/fotos/66-940a772b-image.jpg
+- banco-coni/fotos/67-96165b94-image.jpg
+- banco-coni/fotos/68-9e31d2ad-image.jpg
+- banco-coni/fotos/69-9f98dbd3-image.jpg
+- banco-coni/fotos/70-aad11bee-image.jpg
+- banco-coni/fotos/71-ab7e5168-image.jpg
+- banco-coni/fotos/72-ac343a3b-image.jpg
+- banco-coni/fotos/73-ac8615dd-image.jpg
+- banco-coni/fotos/74-bb955b9b-image.jpg
+- banco-coni/fotos/75-be31b8e9-image.jpg
+- banco-coni/fotos/76-c113e17b-image.jpg
+- banco-coni/fotos/77-c3be4c9d-image.jpg
+- banco-coni/fotos/78-ce2097cc-image.jpg
+- banco-coni/fotos/79-cena-india-blusa-blanca.jpg
+- banco-coni/fotos/80-cena-vestido-blanco-mirando-lado.jpg
+- banco-coni/fotos/81-cena-vestido-blanco-mirando-plato.jpg
+- banco-coni/fotos/82-cena-vestido-blanco-sonrisa.jpg
+- banco-coni/fotos/83-d4d80c93-image.jpg
+- banco-coni/fotos/84-d5e7a5c8-image.jpg
+- banco-coni/fotos/85-d6f3d5c2-image.jpg
+- banco-coni/fotos/86-dbbd6a7f-image.jpg
+- banco-coni/fotos/87-dd637a6c-image.jpg
+- banco-coni/fotos/88-de2c1923-image.jpg
+- banco-coni/fotos/89-ea7b9477-image.jpg
+- banco-coni/fotos/90-eac72608-image.jpg
+- banco-coni/fotos/91-ed2b6102-image.jpg
+- banco-coni/fotos/92-eebcffc5-image.jpg
+- banco-coni/fotos/93-f2f4cb7a-image.jpg
+- banco-coni/fotos/94-f313dbf0-image.jpg
+- banco-coni/fotos/95-f42ab26c-image.jpg
+- banco-coni/fotos/96-f6af5330-image.jpg
+- banco-coni/fotos/97-f75592d0-image.jpg
+- banco-coni/fotos/98-f7aa58db-image.webp
+- banco-coni/fotos/99-f86720c6-image.jpg
+- banco-coni/fotos/100-f94d543e-image.jpg
+- banco-coni/fotos/101-f98a15ec-image.jpg
+- banco-coni/fotos/102-gabardina-banco-1.jpg
+- banco-coni/fotos/103-gabardina-banco-2.jpg
+- banco-coni/fotos/104-gabardina-lago.jpg
+- banco-coni/fotos/105-navidad-vestido-rojo-arbol.jpg
+- banco-coni/fotos/106-playa-abrigo-negro-1.jpg
+- banco-coni/fotos/107-playa-abrigo-negro-2.jpg
+- banco-coni/fotos/108-playa-abrigo-negro-mirando-lado.jpg
+- banco-coni/fotos/109-te-tetera-granate.jpg
+- banco-coni/fotos/110-vestido-lentejuelas.jpg
+- banco-coni/videos/42-051dbb03-IMG_9751.mov
+- banco-coni/videos/43-0b15fd9d-IMG_9742.mov
+- banco-coni/videos/44-0e2b9ab5-IMG_9698.mov
+- banco-coni/videos/45-10bbf02e-IMG_9423.mov
+- banco-coni/videos/46-1f05e1ec-IMG_8451.mov
+- banco-coni/videos/47-20608323-IMG_9402.mov
+- banco-coni/videos/48-272cab7e-IMG_9744.mov
+- banco-coni/videos/49-2cd22c5d-IMG_6039.mov
+- banco-coni/videos/50-2e68e268-IMG_9719.mov
+- banco-coni/videos/51-35b6e674-IMG_0238.mov
+- banco-coni/videos/52-35e44f88-IMG_0244.mov
+- banco-coni/videos/53-462721bd-IMG_9721.mov
+- banco-coni/videos/54-4ac6cd15-IMG_9750.mov
+- banco-coni/videos/55-5072c79a-IMG_9767.mov
+- banco-coni/videos/56-5763a349-IMG_4984.mov
+- banco-coni/videos/57-59515b8f-IMG_9422.mov
+- banco-coni/videos/58-67fde86c-IMG_1752.mov
+- banco-coni/videos/59-79fe1311-IMG_4961.mov
+- banco-coni/videos/60-7ad5df1b-IMG_9757.mov
+- banco-coni/videos/61-7f4623b9-IMG_9720.mov
+- banco-coni/videos/62-897693d8-IMG_9766.mov
+- banco-coni/videos/63-8c9a8d38-IMG_0242.mov
+- banco-coni/videos/64-8e64c278-IMG_9722.mov
+- banco-coni/videos/65-98b6be0c-IMG_9830.mov
+- banco-coni/videos/66-bdb0caa9-IMG_8886.mov
+- banco-coni/videos/67-c8aa11b2-video_0_f48d82eba5f547b69ec8f7071b1f3b32.mov
+- banco-coni/videos/68-d0519e8d-IMG_4909.mov
+- banco-coni/videos/69-d98dc0ac-IMG_9745.mov
+- banco-coni/videos/70-dee8e3d5-IMG_9743.mov
+- banco-coni/videos/71-e1139576-IMG_0241.mov
+- banco-coni/videos/72-e5273762-IMG_9473.mov
+- banco-coni/videos/73-e9bb3a94-IMG_9765.mov
+- banco-coni/videos/74-f1e9c769-IMG_0233.mov
+- banco-coni/videos/75-f4e09e89-IMG_9764.mov
+- banco-coni/videos/76-f8d5dc7f-IMG_8242.mov
+- banco-coni/videos/77-fd0650c7-IMG_9770.mov
+- banco-coni/videos/78-fd339245-IMG_9771.mov
