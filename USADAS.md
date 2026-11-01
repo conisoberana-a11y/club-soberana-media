@@ -111,3 +111,4 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - 1 nov: reel_nolleva_4 corregido. La foto roja ya conserva su color original (antes salía oscurecida por una conversión de color mal hecha) y la pregunta final pasa a ir sobre el banco 38 (giro en el casco antiguo). El banco 39 queda LIBRE.
 - REGLA: las fotos dentro de un reel deben mantener exactamente su tono original; comprobarlo comparando con la foto antes de enviar.
 - 1 nov: reel_nolleva_4 rehecho. La melena pasa a ser la foto playa-americana-marron-botas-blancas, los tacones el banco 38 y la pregunta final la foto playa-abrigo-negro-mirando-lado. Quedan LIBRES 98b6be0c y el banco 35.
+- 1 nov: reel_nolleva_4, la pregunta final pasa a la foto navidad-centro-comercial-sillon-botas. La foto playa-abrigo-negro-mirando-lado queda LIBRE.
