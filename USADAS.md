@@ -73,3 +73,8 @@ Subido desde la sesión Estrategia. Fotos en `fotos-coni/`, vídeos en `videos-c
   - Libre: 5b559177 (jardín de noche, sofá, 2,7 s).
   - No usar, porque son la misma noche y el mismo vestido que los reels del 28 y 30 oct: 402a9704, d0520c67, b4938857 y 97c83317 (edificio blanco).
   - Ya editados y publicados (no reutilizar): f32802d0 (espejo) y 92c5c53d («Cosas que nadie sabe de mí»).
+
+## 1 nov: reel «A los 61 me regalo 5 momentos que antes me parecían un lujo» (reels-sin-musica/reel_lujo_5momentos.mp4, 5 dic)
+- Vídeos del banco usados: 07 (terraza de noche, gancho), 06 (cena en la terraza), 10 (vestido floral en la calle), 22 (sofá rojo leyendo), 11 (vestido floral bajo la pérgola) y 30 (jardín de noche con copa).
+- Estas escenas sustituyen a los reels de foto del 2, 7 y 12 dic, que quedan como huecos a la espera de material nuevo. El vídeo 15 (ventana) no sale porque Coni no aparece.
+- Frases usadas: «Cenar fuera un día cualquiera», «Estrenar vestido un martes», «Una tarde entera leyendo», «Arreglarme solo para mí», «Una copa al anochecer», «¿Y tú, qué lujo te regalas ya?», «Mándaselo a tu amiga que todo lo deja para luego».
