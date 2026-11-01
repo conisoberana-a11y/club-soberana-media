@@ -116,3 +116,6 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 ## 1 nov: propuesta 6, «A los 61 me doy 4 caprichos sin sentirme culpable» (reels-sin-musica/reel_caprichos_4.mp4, APROBADO, 16 nov)
 - Gancho: foto vestido-rojo-mesa-mano-barbilla. 1 «Sacar la tetera bonita solo para mí»: te-tetera-granate. 2 «Pedir siempre el postre»: vestido-rojo-mesa-cuchara-sonrisa, con el rojo suavizado a petición de Coni. 3 «Comer fuera sin celebrar nada»: vídeo 67fde86c. 4 «Pasear por la playa en pleno invierno»: playa-abrigo-negro-1. Pregunta final «¿Y tú, cuál es tu capricho favorito?» sobre cena-vestido-blanco-sonrisa, con «Mándaselo a tu amiga más golosa».
 - A Coni NO le gusta mencionar a la madre («lo que mi madre llamaría…»): no usarlo.
+
+## 1 nov: propuesta 7, «A los 61 sonrío más que a los 40. Te cuento 3 razones.» (reels-sin-musica/reel_sonrio_3.mp4, PENDIENTE de aprobación)
+- Gancho: foto vestido-rojo-rosa-sonrisa. 1 «Ya no espero a que todo sea perfecto»: banco 08 (vestido naranja). 2 «Elijo con quién paso mi tiempo»: banco 11 (vestido de flores en el pasillo). 3 «Me hablo con cariño»: foto cena-india-blusa-blanca. Pregunta final «¿Y tú, qué te hace sonreír más ahora?»: banco 39, con «Mándaselo a quien te hace sonreír».
