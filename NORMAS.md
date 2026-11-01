@@ -105,3 +105,9 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 - Revisar cada clip: si la cabeza está arriba del encuadre, el recuadro baja (centrado, a y≈1380, por encima de la zona de la descripción de Instagram), o va donde no haya cara.
 - El recuadro debe ser elegante: fondo oscuro translúcido (alfa 150), esquinas suaves, filete dorado fino y letra Lora. Nada estridente.
 - Los reels aprobados se envían a Coni por email el día antes, con el texto, para que ella añada la música. Aprobados: estilo (4 nov) y lujo (6 nov).
+
+## REGLA FIJA (1 nov): EL CIERRE SIEMPRE CON LA FRASE
+- Todos los reels terminan con `logo/cierre-frase-club-soberana-1080x1920.png` («TU VIDA. TU MOMENTO / VIVE A TU MANERA»), durante 3 s. Nunca el logo suelto. Esto sustituye a la nota anterior de «algunos reels».
+
+## Piernas (1 nov, aclarado por Coni)
+- No hay problema en que se le vean las piernas. Solo no le gustó el vídeo del jardín de noche (banco 30). El vestido naranja (08 y 09), el banco con la gabardina y sus fotos sentada se pueden usar.
