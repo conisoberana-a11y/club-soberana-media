@@ -123,3 +123,8 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 
 ## Preguntas finales
 - Con «gustar» se escribe «¿Y a ti, de qué te gusta…?». Con los demás verbos, Coni prefiere «¿Y tú…?», por ejemplo «¿Y tú, qué cita no cancelarías?».
+
+## REGLA FIJA (1 nov, decisión de Coni, transmitida por Estrategia): CIERRE Y ZONA SEGURA DEFINITIVOS
+- El final de TODOS los reels es `logo/cierre-final-logo-lema-1080x1920.png` (logo redondo + «TU VIDA. TU MOMENTO. VIVE A TU MANERA.», centrado). Sustituye a cierre-frase y cierre-oficial.
+- Texto en pantalla siempre dentro de X 130–880 e Y 260–1500 (sobre 1080x1920), y nunca sobre la cara. scripts_formula.py ya lo aplica solo.
+- Los 7 reels aprobados (estilo, lujo, 3 temas, citas, nolleva, caprichos, sonrío) se han vuelto a exportar el 1 nov con este cierre y esta zona.

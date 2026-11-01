@@ -15,7 +15,7 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     bw=max(widths)+2*pad; bh=lh*len(lines)+2*pad-12
     if sub: bw=max(bw,d.textlength(sub,font=fs)+2*pad); bh+=56
     if measure: return bw,bh
-    x0=60 if align=='left' else (int(W-60-bw) if align=='right' else int((W-bw)/2))
+    x0=130 if align=='left' else (int(880-bw) if align=='right' else int(130+(750-bw)/2))
     d.rounded_rectangle((x0,y0,x0+bw,y0+bh),radius=18,fill=(18,14,12,150))
     d.line((x0+pad,y0+12,x0+pad+90,y0+12),fill=(214,178,104,230),width=3)
     y=y0+pad-2
@@ -50,20 +50,27 @@ def face_zone(s,a,b):
             boxes.append((x-0.45*w,y-0.75*h,x+1.45*w,y+1.35*h))
     if not boxes: return None
     return (min(b[0] for b in boxes),min(b[1] for b in boxes),max(b[2] for b in boxes),max(b[3] for b in boxes))
+def fit(o,size):
+    sz=size
+    while sz>34:
+        bw,bh=box(o['lines'],None,sz,o.get('sub'),0,'left',measure=True)
+        if bw<=750: return sz,bw,bh
+        sz-=2
+    return sz,bw,bh
 def place(o,s,a,b):
     size=o.get('size',62)
     fz=face_zone(s,a,b)
-    s.setdefault('_log',[]).append(fz)
-    cands=[(235,'left'),(235,'center'),(235,'right'),(330,'left'),(330,'right'),(1300,'center'),(1200,'center'),(1100,'center'),(1350,'left'),(1350,'right'),(1000,'center')]
-    for sz in (size,int(size*0.9),int(size*0.8)):
+    cands=[(270,'left'),(270,'center'),(270,'right'),(360,'left'),(360,'right'),(1300,'center'),(1200,'center'),(1100,'center'),(1000,'center'),(1300,'left'),(1300,'right')]
+    sz0,_,_=fit(o,size)
+    for sz in (sz0,int(sz0*0.9),int(sz0*0.8)):
         bw,bh=box(o['lines'],None,sz,o.get('sub'),0,'left',measure=True)
         for y,al in cands:
-            x0=60 if al=='left' else (W-60-bw if al=='right' else (W-bw)/2)
+            x0=130 if al=='left' else (880-bw if al=='right' else 130+(750-bw)/2)
             r=(x0-10,y-10,x0+bw+10,y+bh+10)
-            if y+bh>1530: continue
+            if y+bh>1500: continue
             if fz is None or r[2]<fz[0] or r[0]>fz[2] or r[3]<fz[1] or r[1]>fz[3]:
                 return sz,y,al,fz
-    return size,o.get('y',235),o.get('align','left'),fz
+    return sz0,270,'center',fz
 
 segs=cfg['segments']  # each: clip, ss, d, speed, text(lines spec), sub
 ins=[];fc=[];ov=[]
@@ -89,7 +96,8 @@ for i,s in enumerate(segs):
         a0=o.get('from',0); b0=o.get('to',s['_dur'])
         if o.get('auto',True):
             sz,yy,al,fz=place(o,s,a0,b0); print(f'seg{i} ov{j}: face={None if fz is None else tuple(int(v) for v in fz)} -> y={yy} {al} size={sz}')
-        else: sz,yy,al=o.get('size',62),o.get('y',150),o.get('align','left')
+        else:
+            sz,_,bh=fit(o,o.get('size',62)); yy=min(max(o.get('y',270),270),1500-bh); al=o.get('align','left')
         box(o['lines'],png,sz,o.get('sub'),yy,al)
         ins+=['-loop','1','-t',f"{t:.2f}",'-i',png]
         a=s['_t0']+o.get('from',0); b=s['_t0']+o.get('to',s['_dur'])
