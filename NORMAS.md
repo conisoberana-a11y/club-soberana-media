@@ -128,3 +128,9 @@ Este reel tuvo 1.955 visualizaciones; un reel de foto fija con texto, 18. Todos 
 - El final de TODOS los reels es `logo/cierre-final-logo-lema-1080x1920.png` (logo redondo + «TU VIDA. TU MOMENTO. VIVE A TU MANERA.», centrado). Sustituye a cierre-frase y cierre-oficial.
 - Texto en pantalla siempre dentro de X 130–880 e Y 260–1500 (sobre 1080x1920), y nunca sobre la cara. scripts_formula.py ya lo aplica solo.
 - Los 7 reels aprobados (estilo, lujo, 3 temas, citas, nolleva, caprichos, sonrío) se han vuelto a exportar el 1 nov con este cierre y esta zona.
+
+## RESULTADO (6 nov): «A los 61 me regalo 5 momentos que antes me parecían un lujo»
+Coni lo publicó como «Reel de prueba» de Instagram, que se enseña primero a quien no la sigue. En pocas horas: 13.050 reproducciones, 10.356 espectadores, 77 seguidoras nuevas, 180 me gusta, 18 guardados, 10 compartidos y 13 s de visionado medio. Todo por encima de su media.
+- Confirma la fórmula: vídeo real desde el primer segundo, gancho con número y la palabra que despierta deseo («lujo»), lista corta, pregunta final, «Mándaselo a…» y la tarjeta del logo.
+- Seguir publicando como «Reel de prueba» los reels de la fórmula.
+- El gancho que más funciona combina un número, una promesa de algo deseable o que da curiosidad y la edad (61). Primer fotograma: Coni mirando a cámara, con luz cálida.
