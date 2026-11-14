@@ -158,3 +158,9 @@ Desde hoy, TODOS los reels nuevos o rehechos siguen el modelo «Lo llevo igual»
 4. Pregunta «¿Y tú…?» + «Mándaselo a…» + cierre con logo y lema (3 s).
 5. Sigue valiendo todo lo demás: texto dentro de la zona segura, sin tapar la cara, colores originales, sin repetir imágenes ni frases, sin temas prohibidos y un reel cada vez con aprobación de Coni.
 Lo que ya está programado en el estilo antiguo se sustituye poco a poco por reels nuevos de esta línea, a medida que Coni los aprueba.
+
+## PROCESO (15 nov, Coni): CAMBIAR LOS REELS AUTOMÁTICOS DE METRICOOL (2 dic - 29 ene) A LA LÍNEA «LO LLEVO IGUAL»
+- Uno a uno y por orden de fecha: se crea un reel nuevo con gancho viral, lista e imágenes de Coni, se le enseña y, cuando lo aprueba, se sustituye en Metricool el vídeo y el texto de ese día (misma fecha y hora). Se mantiene la música que ya tenía el post, para que siga publicándose solo (salvo que Coni diga otra cosa).
+- Vídeo: raw.githubusercontent.com/conisoberana-a11y/club-soberana-media/claude/retomamos-dbtxxf/reels-sin-musica/<archivo>.mp4. Texto con emojis y 5 hashtags.
+- Hasta que se sustituya, el reel antiguo de cada fecha sigue programado, para que el perfil no se quede vacío.
+- Los reels antiguos de diciembre de la hoja Programacion (reel_XXdic.mp4) quedan «En pausa: rehacer en línea Lo llevo igual»: NO se mandan por email, porque son del estilo antiguo.
