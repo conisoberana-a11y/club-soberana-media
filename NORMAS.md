@@ -134,3 +134,10 @@ Coni lo publicó como «Reel de prueba» de Instagram, que se enseña primero a 
 - Confirma la fórmula: vídeo real desde el primer segundo, gancho con número y la palabra que despierta deseo («lujo»), lista corta, pregunta final, «Mándaselo a…» y la tarjeta del logo.
 - Seguir publicando como «Reel de prueba» los reels de la fórmula.
 - El gancho que más funciona combina un número, una promesa de algo deseable o que da curiosidad y la edad (61). Primer fotograma: Coni mirando a cámara, con luz cálida.
+
+## REGLA FIJA PARA TODAS LAS SESIONES (14 nov, Coni): QUÉ SE PUBLICA SOLO Y QUÉ LE LLEGA POR EMAIL
+1. Los reels de Coni (con sus imágenes o vídeos) que ya estaban programados para publicarse solos CON música (en Metricool o en Make) se publican solos. No se le manda email.
+2. Los reels de Coni SIN música (los de la fórmula viral, en reels-sin-musica/ y en la hoja Programacion con Estado «Coni publica (email)») NO se publican solos: se le manda un email el DÍA ANTES con el enlace al vídeo sin música, la fecha y la hora de publicación, y el texto con emojis y exactamente 5 hashtags. Ella pone la música y publica.
+3. Nada de lo programado se pierde: si algo estaba esperando su autorización o Metricool no lo dejó programar, entra en el punto 1 o en el 2 según lleve música o no.
+4. Todo lo demás (tarjetas, historias, carruseles, textos) se publica solo.
+- No cambiar en Metricool el estado (borrador/automático) de publicaciones ajenas sin comprobar antes esta regla.
