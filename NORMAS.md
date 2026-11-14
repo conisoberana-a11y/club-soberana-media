@@ -149,3 +149,12 @@ Publicado como Reel de prueba el 13 nov. Más de 22.000 visualizaciones en Insta
 - Lo que hay que mejorar: pocos comentarios (7) y pocos compartidos (7). Hay que reforzar la pregunta final y que Coni responda los comentarios en las primeras horas.
 - Segundo modelo: «5 momentos que antes me parecían un lujo» (17.139 reproducciones, 36 compartidos).
 - Para TODAS las sesiones: los próximos reels siguen esta línea (estilo, actitud y vida real de Coni). Nada de texto sobre fondo liso, que no pasa de unos cientos de visualizaciones.
+
+## REGLA FIJA PARA TODAS LAS SESIONES (15 nov, Coni): «QUE TODOS AHORA SIGAN ESA LÍNEA»
+Desde hoy, TODOS los reels nuevos o rehechos siguen el modelo «Lo llevo igual»:
+1. Gancho con número + «A los 61…», sobre un tema de identidad, estilo o actitud de Coni.
+2. Primer fotograma: Coni favorecida (foto o vídeo suyo), nunca texto sobre fondo liso.
+3. Lista corta (3-4 puntos) y cada imagen ilustra EXACTAMENTE lo que dice su frase.
+4. Pregunta «¿Y tú…?» + «Mándaselo a…» + cierre con logo y lema (3 s).
+5. Sigue valiendo todo lo demás: texto dentro de la zona segura, sin tapar la cara, colores originales, sin repetir imágenes ni frases, sin temas prohibidos y un reel cada vez con aprobación de Coni.
+Lo que ya está programado en el estilo antiguo se sustituye poco a poco por reels nuevos de esta línea, a medida que Coni los aprueba.
