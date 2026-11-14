@@ -141,3 +141,11 @@ Coni lo publicó como «Reel de prueba» de Instagram, que se enseña primero a 
 3. Nada de lo programado se pierde: si algo estaba esperando su autorización o Metricool no lo dejó programar, entra en el punto 1 o en el 2 según lleve música o no.
 4. Todo lo demás (tarjetas, historias, carruseles, textos) se publica solo.
 - No cambiar en Metricool el estado (borrador/automático) de publicaciones ajenas sin comprobar antes esta regla.
+
+## MODELO VIRAL Nº 1 (15 nov, confirmado por Coni): «Lo llevo igual» — reel_nolleva_4.mp4
+Publicado como Reel de prueba el 13 nov. Más de 22.000 visualizaciones en Instagram (Metricool, primer día: 15.531 reproducciones, 13.300 cuentas alcanzadas).
+- Retención: el 81 % lo ve más de 3 s, solo el 19 % lo salta (la media de los demás reels está entre el 35 y el 70 %).
+- Por qué funciona: tema de IDENTIDAD y ESTILO («me dijeron que esto ya no se lleva»), con Coni favorecida desde el primer fotograma, una lista corta de 4 cosas (melena, brillos, rojo, tacones), cada imagen ilustra exactamente la frase, la pregunta «¿Y tú, qué te dijeron que ya no te tocaba?», «Mándaselo a…» y el cierre con logo.
+- Lo que hay que mejorar: pocos comentarios (7) y pocos compartidos (7). Hay que reforzar la pregunta final y que Coni responda los comentarios en las primeras horas.
+- Segundo modelo: «5 momentos que antes me parecían un lujo» (17.139 reproducciones, 36 compartidos).
+- Para TODAS las sesiones: los próximos reels siguen esta línea (estilo, actitud y vida real de Coni). Nada de texto sobre fondo liso, que no pasa de unos cientos de visualizaciones.
