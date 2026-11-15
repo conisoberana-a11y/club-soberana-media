@@ -30,8 +30,17 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
         # Degradado solo detrás del texto: mancha oscura de bordes muy suaves, del tamaño del bloque de texto.
         from PIL import ImageFilter
         m=Image.new('L',(W,H),0); dm=ImageDraw.Draw(m)
-        dm.rounded_rectangle((x0+pad-16,y0+pad-12,x0+bw-pad+16,y0+bh-pad+16),radius=22,fill=170)
-        m=m.filter(ImageFilter.GaussianBlur(11))
+        # Una banda por línea, ceñida a las letras de esa línea.
+        yy=y0+pad-2
+        for ln,wd in zip(lines,widths):
+            xx=x0+pad if align in ('left','right') else x0+(bw-wd)/2
+            dm.rounded_rectangle((xx-10,yy+4,xx+wd+10,yy+size*1.12),radius=10,fill=165); yy+=lh
+        if sub:
+            yy+=30
+            for sl in subl:
+                sw=dm.textlength(sl,font=fs); xx=x0+pad if align in ('left','right') else x0+(bw-sw)/2
+                dm.rounded_rectangle((xx-8,yy+2,xx+sw+8,yy+50),radius=8,fill=150); yy+=56
+        m=m.filter(ImageFilter.GaussianBlur(6))
         im=Image.new('RGBA',(W,H),(10,8,7,0)); im.putalpha(m); d=ImageDraw.Draw(im)
     txt=Image.new('RGBA',(W,H),(0,0,0,0)); dt=ImageDraw.Draw(txt)
     sh=Image.new('RGBA',(W,H),(0,0,0,0)); ds=ImageDraw.Draw(sh)
