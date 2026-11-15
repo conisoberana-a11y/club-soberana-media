@@ -10,24 +10,29 @@ import numpy as np
 STYLE=cfg.get('style','degradado')
 def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     # Recuadro elegante: fondo oscuro translúcido, filete dorado fino arriba, texto Lora.
-    f=ImageFont.truetype(FONT,size); fs=ImageFont.truetype(SANS,36)
+    f=ImageFont.truetype(FONT,size); fs=ImageFont.truetype(SANS,46)
     im=Image.new('RGBA',(W,H),(0,0,0,0)); d=ImageDraw.Draw(im)
     lh=int(size*1.28); pad=34
     widths=[sum(d.textlength(t,font=f) for t,_ in ln) for ln in lines]
     bw=max(widths)+2*pad; bh=lh*len(lines)+2*pad-12
-    if sub: bw=max(bw,d.textlength(sub,font=fs)+2*pad); bh+=56
+    subl=[]
+    if sub:
+        subl=[sub]
+        if d.textlength(sub,font=fs)>750-2*pad:
+            w_=sub.split(); k=len(w_)//2; subl=[' '.join(w_[:k]),' '.join(w_[k:])]
+        bw=max(bw,max(d.textlength(x,font=fs) for x in subl)+2*pad); bh+=40+56*len(subl)
     if measure: return bw,bh
     x0=130 if align=='left' else (int(880-bw) if align=='right' else int(130+(750-bw)/2))
     if STYLE=='recuadro':
         d.rounded_rectangle((x0,y0,x0+bw,y0+bh),radius=18,fill=(18,14,12,150))
         d.line((x0+pad,y0+12,x0+pad+90,y0+12),fill=(214,178,104,230),width=3)
     else:
-        # Degradado suave a todo lo ancho detrás del texto (sin recuadro): oscuro en el centro del texto y transparente hacia fuera.
-        cy=y0+bh/2; half=bh/2+170
-        ys=np.arange(H,dtype=np.float32); t=np.clip(1-np.abs(ys-cy)/half,0,1)
-        a=(np.minimum(1.0,t*1.6)**1.6*175).astype(np.uint8)
-        g=np.zeros((H,W,4),np.uint8); g[...,3]=a[:,None]; g[...,0:3]=(10,8,7)
-        im=Image.fromarray(g,'RGBA'); d=ImageDraw.Draw(im)
+        # Degradado solo detrás del texto: mancha oscura de bordes muy suaves, del tamaño del bloque de texto.
+        from PIL import ImageFilter
+        m=Image.new('L',(W,H),0); dm=ImageDraw.Draw(m)
+        dm.rounded_rectangle((x0+10,y0+14,x0+bw-10,y0+bh-14),radius=40,fill=165)
+        m=m.filter(ImageFilter.GaussianBlur(34))
+        im=Image.new('RGBA',(W,H),(10,8,7,0)); im.putalpha(m); d=ImageDraw.Draw(im)
     txt=Image.new('RGBA',(W,H),(0,0,0,0)); dt=ImageDraw.Draw(txt)
     sh=Image.new('RGBA',(W,H),(0,0,0,0)); ds=ImageDraw.Draw(sh)
     y=y0+pad-2
@@ -37,8 +42,12 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
             ds.text((x+2,y+3),t_,font=f,fill=(0,0,0,200)); dt.text((x,y),t_,font=f,fill=tuple(c)); x+=dt.textlength(t_,font=f)
         y+=lh
     if sub:
-        sx=x0+pad if align in ('left','right') else x0+(bw-dt.textlength(sub,font=fs))/2
-        ds.text((sx+2,y+6),sub,font=fs,fill=(0,0,0,200)); dt.text((sx,y+4),sub,font=fs,fill=(250,247,240))
+        cx=x0+bw/2 if align=='center' else x0+pad+60
+        dt.line((cx-60,y+10,cx+60,y+10),fill=(214,178,104,235),width=3)
+        yy=y+30
+        for sl in subl:
+            sx=x0+pad if align in ('left','right') else x0+(bw-dt.textlength(sl,font=fs))/2
+            ds.text((sx+2,yy+3),sl,font=fs,fill=(0,0,0,200)); dt.text((sx,yy),sl,font=fs,fill=(250,247,240)); yy+=56
     from PIL import ImageFilter
     im=Image.alpha_composite(im,sh.filter(ImageFilter.GaussianBlur(4))); im=Image.alpha_composite(im,txt)
     im.save(png)
