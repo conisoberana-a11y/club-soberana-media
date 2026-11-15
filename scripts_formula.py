@@ -30,8 +30,8 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
         # Degradado solo detrás del texto: mancha oscura de bordes muy suaves, del tamaño del bloque de texto.
         from PIL import ImageFilter
         m=Image.new('L',(W,H),0); dm=ImageDraw.Draw(m)
-        dm.rounded_rectangle((x0+10,y0+14,x0+bw-10,y0+bh-14),radius=40,fill=165)
-        m=m.filter(ImageFilter.GaussianBlur(34))
+        dm.rounded_rectangle((x0+pad-16,y0+pad-12,x0+bw-pad+16,y0+bh-pad+16),radius=22,fill=170)
+        m=m.filter(ImageFilter.GaussianBlur(11))
         im=Image.new('RGBA',(W,H),(10,8,7,0)); im.putalpha(m); d=ImageDraw.Draw(im)
     txt=Image.new('RGBA',(W,H),(0,0,0,0)); dt=ImageDraw.Draw(txt)
     sh=Image.new('RGBA',(W,H),(0,0,0,0)); ds=ImageDraw.Draw(sh)
