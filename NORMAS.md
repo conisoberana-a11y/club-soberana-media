@@ -170,4 +170,5 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - El texto pequeño (CTA «Mándaselo a…») va grande y legible (Source Sans 46; si no cabe, en dos líneas) y SEPARADO del texto grande por una rayita dorada fina.
 - El texto va en blanco brillante (Lora) con una sombra suave para que resalte. Solo la palabra clave o la pregunta final llevan el dorado.
 - Esto sustituye a lo que decían las normas anteriores sobre el «recuadro elegante». El generador scripts_formula.py lo hace por defecto (style «degradado»; el estilo antiguo es style «recuadro»).
-- (15 nov) Letra más grande (unos 60-64 px en las frases de la lista; el gancho y la pregunta, lo más grande que quepa entre X 130 y 880) y blanco puro brillante, con un contorno oscuro fino y difuminado alrededor de cada letra para que resalte sobre cualquier fondo. El texto pequeño del CTA, Source Sans de 50.
+- (15 nov) Letra más grande (unos 66 px en todas las frases; si una línea no cabe, se parte en más líneas; el gancho y la pregunta, lo más grande que quepa entre X 130 y 880) y blanco puro brillante, con un contorno oscuro fino y difuminado alrededor de cada letra para que resalte sobre cualquier fondo. El texto pequeño del CTA, Source Sans de 50.
+- Si el fondo es dorado o muy recargado, la pregunta final va en blanco, no en dorado, para que se lea.
