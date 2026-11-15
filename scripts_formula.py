@@ -34,13 +34,13 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
         yy=y0+pad-2
         for ln,wd in zip(lines,widths):
             xx=x0+pad if align in ('left','right') else x0+(bw-wd)/2
-            dm.ellipse((xx-28,yy-2,xx+wd+28,yy+size*1.22),fill=115); yy+=lh
+            dm.ellipse((xx-28,yy-2,xx+wd+28,yy+size*1.22),fill=45); yy+=lh
         if sub:
             yy+=30
             for sl in subl:
                 sw=dm.textlength(sl,font=fs); xx=x0+pad if align in ('left','right') else x0+(bw-sw)/2
-                dm.ellipse((xx-24,yy-2,xx+sw+24,yy+54),fill=105); yy+=56
-        m=m.filter(ImageFilter.GaussianBlur(16))
+                dm.ellipse((xx-24,yy-2,xx+sw+24,yy+54),fill=40); yy+=56
+        m=m.filter(ImageFilter.GaussianBlur(20))
         im=Image.new('RGBA',(W,H),(10,8,7,0)); im.putalpha(m); d=ImageDraw.Draw(im)
     txt=Image.new('RGBA',(W,H),(0,0,0,0)); dt=ImageDraw.Draw(txt)
     sh=Image.new('RGBA',(W,H),(0,0,0,0)); ds=ImageDraw.Draw(sh)
