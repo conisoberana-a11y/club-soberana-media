@@ -164,3 +164,8 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - Vídeo: raw.githubusercontent.com/conisoberana-a11y/club-soberana-media/claude/retomamos-dbtxxf/reels-sin-musica/<archivo>.mp4. Texto con emojis y 5 hashtags.
 - Hasta que se sustituya, el reel antiguo de cada fecha sigue programado, para que el perfil no se quede vacío.
 - Los reels antiguos de diciembre de la hoja Programacion (reel_XXdic.mp4) quedan «En pausa: rehacer en línea Lo llevo igual»: NO se mandan por email, porque son del estilo antiguo.
+
+## REGLA FIJA PARA TODAS LAS SESIONES (15 nov, Coni): TEXTO SIN RECUADRO, SOBRE UN DEGRADADO
+- Se elimina el recuadro (caja) detrás del texto. En su lugar, un degradado oscuro suave a todo lo ancho de la imagen, solo en la franja del texto, que se funde con la foto hacia arriba y hacia abajo.
+- El texto va en blanco brillante (Lora) con una sombra suave para que resalte. Solo la palabra clave o la pregunta final llevan el dorado.
+- Esto sustituye a lo que decían las normas anteriores sobre el «recuadro elegante». El generador scripts_formula.py lo hace por defecto (style «degradado»; el estilo antiguo es style «recuadro»).

@@ -6,6 +6,8 @@ W,H=1080,1920
 cfg=json.load(open(sys.argv[1])); out=cfg['out']; tmp=S+'formula/_'+os.path.basename(out)
 FONT=S+'fonts/Lora-SemiBold.ttf'; SANS=S+'fonts/SourceSans-SemiBold.ttf'
 GOLD=(232,168,90); WHITE=(255,255,255)
+import numpy as np
+STYLE=cfg.get('style','degradado')
 def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     # Recuadro elegante: fondo oscuro translúcido, filete dorado fino arriba, texto Lora.
     f=ImageFont.truetype(FONT,size); fs=ImageFont.truetype(SANS,36)
@@ -16,16 +18,29 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     if sub: bw=max(bw,d.textlength(sub,font=fs)+2*pad); bh+=56
     if measure: return bw,bh
     x0=130 if align=='left' else (int(880-bw) if align=='right' else int(130+(750-bw)/2))
-    d.rounded_rectangle((x0,y0,x0+bw,y0+bh),radius=18,fill=(18,14,12,150))
-    d.line((x0+pad,y0+12,x0+pad+90,y0+12),fill=(214,178,104,230),width=3)
+    if STYLE=='recuadro':
+        d.rounded_rectangle((x0,y0,x0+bw,y0+bh),radius=18,fill=(18,14,12,150))
+        d.line((x0+pad,y0+12,x0+pad+90,y0+12),fill=(214,178,104,230),width=3)
+    else:
+        # Degradado suave a todo lo ancho detrás del texto (sin recuadro): oscuro en el centro del texto y transparente hacia fuera.
+        cy=y0+bh/2; half=bh/2+170
+        ys=np.arange(H,dtype=np.float32); t=np.clip(1-np.abs(ys-cy)/half,0,1)
+        a=(np.minimum(1.0,t*1.6)**1.6*175).astype(np.uint8)
+        g=np.zeros((H,W,4),np.uint8); g[...,3]=a[:,None]; g[...,0:3]=(10,8,7)
+        im=Image.fromarray(g,'RGBA'); d=ImageDraw.Draw(im)
+    txt=Image.new('RGBA',(W,H),(0,0,0,0)); dt=ImageDraw.Draw(txt)
+    sh=Image.new('RGBA',(W,H),(0,0,0,0)); ds=ImageDraw.Draw(sh)
     y=y0+pad-2
     for ln,wd in zip(lines,widths):
         x=x0+pad if align in ('left','right') else x0+(bw-wd)/2
-        for t,c in ln: d.text((x,y),t,font=f,fill=tuple(c)); x+=d.textlength(t,font=f)
+        for t_,c in ln:
+            ds.text((x+2,y+3),t_,font=f,fill=(0,0,0,200)); dt.text((x,y),t_,font=f,fill=tuple(c)); x+=dt.textlength(t_,font=f)
         y+=lh
     if sub:
-        sx=x0+pad if align in ('left','right') else x0+(bw-d.textlength(sub,font=fs))/2
-        d.text((sx,y+4),sub,font=fs,fill=(235,228,215))
+        sx=x0+pad if align in ('left','right') else x0+(bw-dt.textlength(sub,font=fs))/2
+        ds.text((sx+2,y+6),sub,font=fs,fill=(0,0,0,200)); dt.text((sx,y+4),sub,font=fs,fill=(250,247,240))
+    from PIL import ImageFilter
+    im=Image.alpha_composite(im,sh.filter(ImageFilter.GaussianBlur(4))); im=Image.alpha_composite(im,txt)
     im.save(png)
 
 import numpy as np, cv2
