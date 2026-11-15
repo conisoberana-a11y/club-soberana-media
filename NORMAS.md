@@ -166,7 +166,7 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - Los reels antiguos de diciembre de la hoja Programacion (reel_XXdic.mp4) quedan «En pausa: rehacer en línea Lo llevo igual»: NO se mandan por email, porque son del estilo antiguo.
 
 ## REGLA FIJA PARA TODAS LAS SESIONES (15 nov, Coni): TEXTO SIN RECUADRO, SOBRE UN DEGRADADO
-- Se elimina el recuadro (caja) detrás del texto. En su lugar, un degradado oscuro que ocupa EXACTAMENTE el texto y nada más (una banda fina por cada línea, ceñida a sus letras, con el borde apenas difuminado). Ni a todo lo ancho ni más grande que el texto.
+- Se elimina el recuadro (caja) detrás del texto. En su lugar, un degradado oscuro que ocupa EXACTAMENTE el texto y nada más (una sombra suave y difuminada detrás de cada línea, ceñida a sus letras, poco opaca y SIN que se note ninguna forma de cuadrado ni de recuadro). Ni a todo lo ancho ni más grande que el texto.
 - El texto pequeño (CTA «Mándaselo a…») va grande y legible (Source Sans 46; si no cabe, en dos líneas) y SEPARADO del texto grande por una rayita dorada fina.
 - El texto va en blanco brillante (Lora) con una sombra suave para que resalte. Solo la palabra clave o la pregunta final llevan el dorado.
 - Esto sustituye a lo que decían las normas anteriores sobre el «recuadro elegante». El generador scripts_formula.py lo hace por defecto (style «degradado»; el estilo antiguo es style «recuadro»).

@@ -34,13 +34,13 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
         yy=y0+pad-2
         for ln,wd in zip(lines,widths):
             xx=x0+pad if align in ('left','right') else x0+(bw-wd)/2
-            dm.rounded_rectangle((xx-10,yy+4,xx+wd+10,yy+size*1.12),radius=10,fill=165); yy+=lh
+            dm.ellipse((xx-28,yy-2,xx+wd+28,yy+size*1.22),fill=115); yy+=lh
         if sub:
             yy+=30
             for sl in subl:
                 sw=dm.textlength(sl,font=fs); xx=x0+pad if align in ('left','right') else x0+(bw-sw)/2
-                dm.rounded_rectangle((xx-8,yy+2,xx+sw+8,yy+50),radius=8,fill=150); yy+=56
-        m=m.filter(ImageFilter.GaussianBlur(6))
+                dm.ellipse((xx-24,yy-2,xx+sw+24,yy+54),fill=105); yy+=56
+        m=m.filter(ImageFilter.GaussianBlur(16))
         im=Image.new('RGBA',(W,H),(10,8,7,0)); im.putalpha(m); d=ImageDraw.Draw(im)
     txt=Image.new('RGBA',(W,H),(0,0,0,0)); dt=ImageDraw.Draw(txt)
     sh=Image.new('RGBA',(W,H),(0,0,0,0)); ds=ImageDraw.Draw(sh)
@@ -48,7 +48,7 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     for ln,wd in zip(lines,widths):
         x=x0+pad if align in ('left','right') else x0+(bw-wd)/2
         for t_,c in ln:
-            ds.text((x+2,y+3),t_,font=f,fill=(0,0,0,200)); dt.text((x,y),t_,font=f,fill=tuple(c)); x+=dt.textlength(t_,font=f)
+            ds.text((x+1,y+2),t_,font=f,fill=(0,0,0,235)); dt.text((x,y),t_,font=f,fill=tuple(c)); x+=dt.textlength(t_,font=f)
         y+=lh
     if sub:
         cx=x0+bw/2 if align=='center' else x0+pad+60
