@@ -10,9 +10,9 @@ import numpy as np
 STYLE=cfg.get('style','degradado')
 def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     # Recuadro elegante: fondo oscuro translúcido, filete dorado fino arriba, texto Lora.
-    f=ImageFont.truetype(FONT,size); fs=ImageFont.truetype(SANS,46)
+    f=ImageFont.truetype(FONT,size); fs=ImageFont.truetype(SANS,50)
     im=Image.new('RGBA',(W,H),(0,0,0,0)); d=ImageDraw.Draw(im)
-    lh=int(size*1.28); pad=34
+    lh=int(size*1.28); pad=34 if STYLE=='recuadro' else 6
     widths=[sum(d.textlength(t,font=f) for t,_ in ln) for ln in lines]
     bw=max(widths)+2*pad; bh=lh*len(lines)+2*pad-12
     subl=[]
@@ -48,7 +48,7 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
     for ln,wd in zip(lines,widths):
         x=x0+pad if align in ('left','right') else x0+(bw-wd)/2
         for t_,c in ln:
-            ds.text((x+1,y+2),t_,font=f,fill=(0,0,0,235)); dt.text((x,y),t_,font=f,fill=tuple(c)); x+=dt.textlength(t_,font=f)
+            ds.text((x+1,y+2),t_,font=f,fill=(0,0,0,235),stroke_width=3,stroke_fill=(0,0,0,150)); dt.text((x,y),t_,font=f,fill=tuple(c)); x+=dt.textlength(t_,font=f)
         y+=lh
     if sub:
         cx=x0+bw/2 if align=='center' else x0+pad+60
@@ -56,9 +56,9 @@ def box(lines,png,size=62,sub=None,y0=150,align='left',measure=False):
         yy=y+30
         for sl in subl:
             sx=x0+pad if align in ('left','right') else x0+(bw-dt.textlength(sl,font=fs))/2
-            ds.text((sx+2,yy+3),sl,font=fs,fill=(0,0,0,200)); dt.text((sx,yy),sl,font=fs,fill=(250,247,240)); yy+=56
+            ds.text((sx+1,yy+2),sl,font=fs,fill=(0,0,0,230),stroke_width=2,stroke_fill=(0,0,0,140)); dt.text((sx,yy),sl,font=fs,fill=(250,247,240)); yy+=56
     from PIL import ImageFilter
-    im=Image.alpha_composite(im,sh.filter(ImageFilter.GaussianBlur(4))); im=Image.alpha_composite(im,txt)
+    im=Image.alpha_composite(im,sh.filter(ImageFilter.GaussianBlur(3))); im=Image.alpha_composite(im,txt)
     im.save(png)
 
 import numpy as np, cv2
