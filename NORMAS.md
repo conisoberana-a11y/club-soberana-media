@@ -179,3 +179,11 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - La regla antigua «Metricool solo para TikTok» queda anulada: Metricool publica en Instagram, Facebook y TikTok según el calendario de esta sesión.
 - Historias: solo una por mañana (Metricool, a las 8:05). Si aparece otra copia, mirar primero si Instagram o Facebook tienen activado compartir las historias entre las dos cuentas.
 - (16 nov, Coni) Todo lo de Instagram y Facebook que se activó en Metricool la noche del 14 nov queda EN BORRADOR, pendiente de revisar con las normas: historias diarias del 17 al 30 nov, preguntas de los días 17 y 24 nov, reels de los días 18, 20, 23, 25, 27 y 30 nov y carruseles del 21 nov al 16 ene. TikTok sigue igual. Nada vuelve a publicarse solo sin la aprobación de Coni.
+
+## REGLA FIJA E INNEGOCIABLE (16 nov, Coni): NUNCA SE PUBLICA NADA SOLO DE TEXTO
+- Ningún carrusel, reel, tarjeta ni publicación del feed puede ser solo texto sobre un fondo liso. TODA pieza lleva fotos o vídeos reales de Coni, y en cada diapositiva de un carrusel tiene que verse a Coni.
+- El 16 nov se publicó a las 11:00 (Metricool) un reel solo de texto sobre fondo crema, y Coni lo vio como un «carrusel con texto en cada diapositiva, sin mis imágenes». No puede volver a pasar.
+- Medidas tomadas el 16 nov:
+  - Metricool: en borrador todos los reels de texto sobre fondo liso (23 y 30 nov; 7, 14 y 21 dic; 4, 11, 18 y 25 ene) y todos los carruseles de tarjetas (del 21 nov al 16 ene).
+  - Hoja «Untitled» (tarjetas de texto que Make publica a las 8:00 en Facebook e Instagram): filas del 17 nov al 31 ene en «En pausa: solo texto, sin fotos de Coni».
+- Antes de dejar que algo se publique solo, comprobar el contenido de cada pieza (texto alternativo o vista previa). Si no se puede ver o es solo texto, NO se publica.
