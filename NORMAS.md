@@ -172,3 +172,9 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - Esto sustituye a lo que decían las normas anteriores sobre el «recuadro elegante». El generador scripts_formula.py lo hace por defecto (style «degradado»; el estilo antiguo es style «recuadro»).
 - (15 nov) Letra más grande (unos 66 px en todas las frases; si una línea no cabe, se parte en más líneas; el gancho y la pregunta, lo más grande que quepa entre X 130 y 880) y blanco puro brillante, con un contorno oscuro fino y difuminado alrededor de cada letra para que resalte sobre cualquier fondo. El texto pequeño del CTA, Source Sans de 50.
 - Si el fondo es dorado o muy recargado, la pregunta final va en blanco, no en dorado, para que se lea.
+
+## REGLA FIJA (16 nov, Coni): UNA SOLA SESIÓN LLEVA TODAS LAS PUBLICACIONES
+- Desde el 16 nov, la sesión «Retomamos» (session_01DvE22EYfGFMJ7juH4Ni6wN) lleva TODO lo que se publica: Metricool, Make, la hoja Programacion, las historias, los carruseles y los emails de reels a Coni. Ninguna otra sesión programa, publica ni cambia nada de esto.
+- Los emails de reels sin música los manda UNA sola tarea diaria (trig_0175NBYRcixesDFPZZpAcWdV, 9:37). Se borraron o desactivaron los recordatorios por fecha que había creado la sesión «Plan 60 días».
+- La regla antigua «Metricool solo para TikTok» queda anulada: Metricool publica en Instagram, Facebook y TikTok según el calendario de esta sesión.
+- Historias: solo una por mañana (Metricool, a las 8:05). Si aparece otra copia, mirar primero si Instagram o Facebook tienen activado compartir las historias entre las dos cuentas.
