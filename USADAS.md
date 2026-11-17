@@ -156,3 +156,4 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 ## 17 nov: carrusel «Una carta a la mujer que fui» (carruseles/carta_21nov/, APROBADO 17 nov; programado en Metricool el 21 nov a las 11:00 en Instagram y Facebook, se publica solo)
 - Fotos: 1 24-ventana-perfil-jardin; 2 20-salon-blusa-blanca-taza; 3 940a772b (lago, de espaldas); 4 19a76e4b (sillón de cuero; ya no se puede usar 19a76e4b, d4d80c93 ni ed2b6102); 5 11-noche-piscina-vestido-negro; 6 gabardina-banco-1; 7 21-ventana-de-espaldas-cortina.
 - REGLA (Coni, 17 nov): los carruseles van con SUS fotos, una en cada diapositiva, con el texto encima (blanco, degradado suave, sin tapar la cara). Formato 1080x1350. Generador: scripts_carrusel.py.
+- 17 nov: Coni pide cambiar la diapositiva 3 (sin victimismos). Ahora dice «Fuiste más valiente de lo que creías. Y llegaste más lejos de lo que imaginabas.». REGLA: nada de victimismo en los textos.
