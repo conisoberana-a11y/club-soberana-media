@@ -199,3 +199,12 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - 17 nov: el carrusel del 21 nov pasa a Make (fila 47 de Programacion, «Pendiente»); en Metricool queda en borrador. El reel nº 9 (2 dic) pasa a la fila 27 como «Coni publica (email)»; en Metricool queda en borrador. El reel nº 10 (4 dic) va en la fila 28, «Pendiente de aprobación de Coni».
 - Los reels antiguos de Metricool de diciembre y enero con vídeos de Coni se quedan mientras no se sustituyan; cada uno que se rehaga pasa a email y su versión de Metricool queda en borrador.
 - La conexión de Facebook en Make caduca el 3 dic: Coni tiene que renovarla antes (recordatorio el 28 nov, trig_019irssEh1uz7HZ3xMFSUnTK).
+
+## TRASPASO (17 nov): «RETOMAMOS» ES LA GUARDIANA DEL BANCO, DEL REGISTRO Y DE LAS HERRAMIENTAS
+- Documento: content/instagram-60-dias/TRASPASO-A-RETOMAMOS.md (coni-soberana-v2, rama claude/instagram-60-day-content-plan-q9m8fe).
+- Bancos: coni-soberana-v2/content/fotos-coni (fotos/, videos/, originales/) y club-soberana-media: banco-coni/ en la rama del Plan 60, más fotos-coni/ y videos-coni/ en esta rama.
+- Registro único: artefacto «Tareas Club Soberana» (https://claude.ai/artifact/RoFEujeRNTKoRbcBW2Zo8g), colección `fotos`, con los estados libre | programada | publicada | no_usar. Cada pieza que se use se marca allí, además de en USADAS.md. Una pieza no se vuelve a usar nunca, salvo que Coni lo pida.
+- Herramientas: además de scripts_formula.py y scripts_carrusel.py, el Plan 60 tiene render_formula.py, retoque.py (dientes más blancos) y aplicar_banco.py (paso de HDR a SDR con color fiel) en content/instagram-60-dias/calendario-oct-ene/.
+- Recordatorio de las fotos de Navidad: 15 dic a las 9:12 en esta sesión (trig_01Lz23dct6W7oVAdvyywVhfG).
+- Medir cada reel a las 24 h: reproducciones, tiempo medio, % que lo salta en 3 s y seguidores nuevos.
+- Historias: Make NO tiene módulo de historias de Instagram, así que solo pueden ir por Metricool, que en el plan gratuito permite unas 20 automatizaciones. El reparto de historias lo decide Coni.
