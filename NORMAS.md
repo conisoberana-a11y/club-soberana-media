@@ -212,3 +212,4 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 ## Historias (17 nov 2026)
 - Historias de imagen de las 08:05 y pregunta de los martes a las 19:00: las publica Metricool (IG + FB). Una sola por día; revisar cada lunes que la semana siguiente esté activa y sin duplicados.
 - Las historias en vídeo a lo largo del día las sube Coni a mano. No se tocan ni se programan encima.
+- Publicación diaria del feed (tarjeta de las 08:00): la hace Make, escenario 7232062, desde la pestaña «Untitled» de la hoja (exporta la tarjeta de Canva y publica foto en Facebook e Instagram; marca la fila «Publicado»). Filas preparadas hasta el 31 ene. Sigue igual. Ojo: la conexión de Facebook en Make caduca el 3 dic (recordatorio el 28 nov).
