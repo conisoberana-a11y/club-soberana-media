@@ -191,3 +191,11 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 
 ## REGLA FIJA (17 nov, Coni): SIN VICTIMISMOS
 - Ningún texto (reels, carruseles, tarjetas, historias, pies) habla desde la queja, el sufrimiento ni el «pobre de mí» (cansancio, aguantar, sacrificarse…). Siempre desde la fuerza, el orgullo y la alegría de lo vivido.
+
+## REPARTO DE HERRAMIENTAS (17 nov, Coni): METRICOOL ES GRATUITO Y TIENE LÍMITE
+- Metricool (plan gratuito, límite de unas 20 automatizaciones según Coni): se usa SOLO para TikTok, las historias de las 8:05 y la pregunta de los martes. NO se programa en Metricool ningún reel ni carrusel nuevo de Instagram o Facebook.
+- Make (escenario 7232062), desde la hoja Programacion: carruseles (CAROUSEL, 7 u 8 fotos separadas por « | ») y reels que deban salir solos. Desde la hoja «Untitled»: las tarjetas de las mañanas, a las 8:00.
+- Reels de Coni: le llegan por email el día antes (tarea diaria de las 9:37) y los publica ella con su música, porque Make no puede poner música de Instagram.
+- 17 nov: el carrusel del 21 nov pasa a Make (fila 47 de Programacion, «Pendiente»); en Metricool queda en borrador. El reel nº 9 (2 dic) pasa a la fila 27 como «Coni publica (email)»; en Metricool queda en borrador. El reel nº 10 (4 dic) va en la fila 28, «Pendiente de aprobación de Coni».
+- Los reels antiguos de Metricool de diciembre y enero con vídeos de Coni se quedan mientras no se sustituyan; cada uno que se rehaga pasa a email y su versión de Metricool queda en borrador.
+- La conexión de Facebook en Make caduca el 3 dic: Coni tiene que renovarla antes (recordatorio el 28 nov, trig_019irssEh1uz7HZ3xMFSUnTK).
