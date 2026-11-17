@@ -149,6 +149,7 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 
 ## 15 nov: propuesta 10, «A los 61 me dijeron que la blusa blanca era de señora. Así la llevo yo.» (reels-sin-musica/reel_blusa_3.mp4, PENDIENTE de aprobación; si se aprueba, sustituye al reel automático de Metricool del 4 dic a las 18:30)
 - Fotos de la sesión de la blusa blanca (copiadas del banco a fotos-coni/blusa-blanca-*). Gancho: 22-cortina-retrato. 1 «Con falda de cuadros y medias negras»: 18-ventana-puño. 2 «Con botas altas por encima de la rodilla»: 25-sillón-botas-taza. 3 «Con pendientes y una buena sonrisa»: 23-ventana-manos-sonrisa. Pregunta «¿Y tú, qué prenda te dijeron que era «de mayor»?» + «Mándaselo a tu amiga más elegante.»: 19-ventana-brazos-cruzados.
+- Reel n.º 10 (blusa blanca, 4 dic): APROBADO por Coni el 17 nov. Hoja fila 28 → «Coni publica (email)»; email el 3 dic. Registro actualizado (fotos 22, 18, 25, 23, 19 → programada 4 dic).
 - Esta escena estaba reservada para el reel antiguo del 2 dic (Programacion), que está EN PAUSA y no se ha publicado. Queda LIBRE: 20-salón-taza, 21-de espaldas, 24-perfil-ventana.
 - 15 nov: a petición de Coni, se intercambian la foto 1 y la 4. Gancho: 23-ventana-manos-sonrisa. 3 «Con pendientes y una buena sonrisa»: 22-cortina-retrato.
 - 15 nov: Coni prefiere el orden original. Se deshace el intercambio: gancho 22-cortina-retrato; 3, 23-ventana-manos-sonrisa.
