@@ -188,3 +188,6 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
   - Carruseles de tarjetas (21 nov - 16 ene): en borrador hasta que Coni diga si siguen así o se rehacen con sus fotos.
   - Historias del 18 al 30 nov y preguntas de los martes: activas.
   - Tarjetas de las mañanas: activas («Pendiente»).
+
+## REGLA FIJA (17 nov, Coni): SIN VICTIMISMOS
+- Ningún texto (reels, carruseles, tarjetas, historias, pies) habla desde la queja, el sufrimiento ni el «pobre de mí» (cansancio, aguantar, sacrificarse…). Siempre desde la fuerza, el orgullo y la alegría de lo vivido.
