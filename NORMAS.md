@@ -208,3 +208,7 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - Recordatorio de las fotos de Navidad: 15 dic a las 9:12 en esta sesión (trig_01Lz23dct6W7oVAdvyywVhfG).
 - Medir cada reel a las 24 h: reproducciones, tiempo medio, % que lo salta en 3 s y seguidores nuevos.
 - Historias: Make NO tiene módulo de historias de Instagram, así que solo pueden ir por Metricool, que en el plan gratuito permite unas 20 automatizaciones. El reparto de historias lo decide Coni.
+
+## Historias (17 nov 2026)
+- Historias de imagen de las 08:05 y pregunta de los martes a las 19:00: las publica Metricool (IG + FB). Una sola por día; revisar cada lunes que la semana siguiente esté activa y sin duplicados.
+- Las historias en vídeo a lo largo del día las sube Coni a mano. No se tocan ni se programan encima.
