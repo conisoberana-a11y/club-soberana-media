@@ -152,3 +152,7 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - Esta escena estaba reservada para el reel antiguo del 2 dic (Programacion), que está EN PAUSA y no se ha publicado. Queda LIBRE: 20-salón-taza, 21-de espaldas, 24-perfil-ventana.
 - 15 nov: a petición de Coni, se intercambian la foto 1 y la 4. Gancho: 23-ventana-manos-sonrisa. 3 «Con pendientes y una buena sonrisa»: 22-cortina-retrato.
 - 15 nov: Coni prefiere el orden original. Se deshace el intercambio: gancho 22-cortina-retrato; 3, 23-ventana-manos-sonrisa.
+
+## 17 nov: carrusel «Una carta a la mujer que fui» (carruseles/carta_21nov/, PENDIENTE de aprobación; sustituye en Metricool al carrusel de tarjetas del 21 nov a las 11:00)
+- Fotos: 1 24-ventana-perfil-jardin; 2 20-salon-blusa-blanca-taza; 3 940a772b (lago, de espaldas); 4 19a76e4b (sillón de cuero; ya no se puede usar 19a76e4b, d4d80c93 ni ed2b6102); 5 11-noche-piscina-vestido-negro; 6 gabardina-banco-1; 7 21-ventana-de-espaldas-cortina.
+- REGLA (Coni, 17 nov): los carruseles van con SUS fotos, una en cada diapositiva, con el texto encima (blanco, degradado suave, sin tapar la cara). Formato 1080x1350. Generador: scripts_carrusel.py.
