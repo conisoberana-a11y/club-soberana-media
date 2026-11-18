@@ -221,3 +221,8 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Cada texto se dirige a ellas: «amiga», «nosotras», «mándaselo a tu amiga». Temas de amigas, estilo, calma, bienestar y comunidad.
 - Elegir planos de cuerpo entero o de paseo, sin poses sensuales; antes que nada, la mirada natural.
 - Revisar con este filtro todo lo ya programado (reels, carruseles, tarjetas e historias).
+
+## PREGUNTA DE LOS MARTES (Coni, 18 nov 2026)
+- UNA sola historia cada martes, a las **20:00**, y **con música**.
+- Formato: vídeo 9:16 de 15 s (la tarjeta de la pregunta con un zoom muy suave) con música original sin derechos (musica_original.py), en historias-martes/. La publica Metricool solo en Instagram (sin Facebook en el mismo post), para que el reparto automático de Meta entre Facebook e Instagram no la duplique.
+- El 17 nov salió dos veces: Metricool la publicó a las 19:00 (imagen sin música) y apareció otra con música unas horas después que no venía de Metricool, Make ni ninguna sesión: es el «compartir historias» automático entre Facebook e Instagram del Centro de cuentas de Meta (igual que el duplicado del 16 nov). Coni debe desactivarlo.
