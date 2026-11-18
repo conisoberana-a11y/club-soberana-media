@@ -214,3 +214,10 @@ Lo que ya está programado en el estilo antiguo se sustituye poco a poco por ree
 - Las historias en vídeo a lo largo del día las sube Coni a mano. No se tocan ni se programan encima.
 - Publicación diaria del feed (tarjeta de las 08:00): la hace Make, escenario 7232062, desde la pestaña «Untitled» de la hoja (exporta la tarjeta de Canva y publica foto en Facebook e Instagram; marca la fila «Publicado»). Filas preparadas hasta el 31 ene. Sigue igual. Ojo: la conexión de Facebook en Make caduca el 3 dic (recordatorio el 28 nov).
 - ÁLBUM DE CLUB SOBERANA (orden de Coni, 17 nov): todas las fotos y vídeos que Coni mande se guardan siempre, sin excepción, en este repositorio (fotos-coni/ y videos-coni/, rama claude/retomamos-dbtxxf) y se apuntan en la colección `fotos` del registro como «libre», con descripción y escena. Los vídeos del iPhone vienen en HDR: se pasan a SDR solo al usarlos.
+
+## CUENTA PARA MUJERES (Coni, 18 nov 2026)
+Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una comunidad de mujeres:
+- Nada de noche a solas, citas, cenas a solas, «salir sola», piropos, miradas a cámara insinuantes ni frases que se lean como coqueteo. Nada que hable del cuerpo.
+- Cada texto se dirige a ellas: «amiga», «nosotras», «mándaselo a tu amiga». Temas de amigas, estilo, calma, bienestar y comunidad.
+- Elegir planos de cuerpo entero o de paseo, sin poses sensuales; antes que nada, la mirada natural.
+- Revisar con este filtro todo lo ya programado (reels, carruseles, tarjetas e historias).
