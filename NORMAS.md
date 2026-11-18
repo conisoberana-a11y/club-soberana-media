@@ -226,3 +226,9 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - UNA sola historia cada martes, a las **20:00**, y **con música**.
 - Formato: vídeo 9:16 de 15 s (la tarjeta de la pregunta con un zoom muy suave) con música original sin derechos (musica_original.py), en historias-martes/. La publica Metricool solo en Instagram (sin Facebook en el mismo post), para que el reparto automático de Meta entre Facebook e Instagram no la duplique.
 - El 17 nov salió dos veces: Metricool la publicó a las 19:00 (imagen sin música) y apareció otra con música unas horas después que no venía de Metricool, Make ni ninguna sesión: es el «compartir historias» automático entre Facebook e Instagram del Centro de cuentas de Meta (igual que el duplicado del 16 nov). Coni debe desactivarlo.
+
+## FRASE DEL DÍA SIEMPRE CON MÚSICA (Coni, 18 nov 2026)
+- La frase del día (feed 08:00 por Make y historia 08:05 por Metricool) tiene que salir SIEMPRE con música.
+- Hasta hoy salía como FOTO (Make: Canva → foto en FB e IG) e IMAGEN de historia (Metricool): una foto no puede llevar música por publicación automática.
+- Solución: convertir cada tarjeta en un vídeo de 10-15 s con música original y ponerlo en la columna L (Reel_URL) de la pestaña Untitled. Make ya tiene la ruta «Reel animado» que lo publica como reel en FB e IG, sin tocar el escenario. La historia de las 08:05 usa ese mismo vídeo en Metricool.
+- Pendiente: descargar las tarjetas exportadas de Canva (export-download.canva.com) necesita el permiso de Coni.
