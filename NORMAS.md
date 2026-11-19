@@ -240,3 +240,8 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Canciones usadas (no repetir en 60 días): 19 nov Hold The Moment (Giulio Cercato); 20 Understory (Ross Lara); 21 Waves (Giulio Cercato); 22 Rings (Otis McDonald); 23 Guitar Peace (Lance Taber); 24 Gently (Giulio Cercato); 25 Riverbank (Goldenrod). Banco: coni-soberana-v2, rama del Plan 60, content/instagram-60-dias/calendario-oct-ene/musica.py y musica-instagram-registro.md (las asignadas a reels de Metricool que pasaron a borrador quedan libres).
 - NADA DE «PEDIR PERMISO» (Coni, 18 nov): «Yo nunca he pedido permiso para nada». No usar ese tema ni esas frases (ni «ya no pido permiso», ni «dejé de pedir permiso»).
 - CONTROL DE LECTURA OBLIGATORIO (Coni, 18 nov): antes de programar cualquier tarjeta o vídeo, mirar la imagen final y comprobar que TODO el texto se lee bien: que no cae sobre hojas, ventanas, objetos ni zonas claras/movidas, y que tiene margen. Si no, mover el texto en Canva a una zona limpia (más a la derecha) o aplicar scripts_legible.py. «Si publicamos y los textos no se pueden leer, no sirve de nada.»
+
+### Revisión «solo para mujeres» hecha (Coni aprobó el 18 nov)
+- Frases del día: 27 dic (tarjeta 9:16 y 4:5 + pie, sin «pedir permiso»), 3 ene y 25 ene (solo pie) cambiadas.
+- Reels Metricool: 23 dic y 25 dic con pie nuevo, en positivo. El vídeo del 23 dic (orilla del mar) no se ha podido revisar desde aquí: Metricool bloquea la descarga. Hay que confirmar que no repite una imagen de mar ya publicada.
+- Reel en borrador del 14 dic («Pedir sin disculparme») hay que rehacerlo con la línea viral.
