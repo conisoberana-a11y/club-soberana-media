@@ -160,3 +160,9 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - 17 nov: Coni pide cambiar la diapositiva 3 (sin victimismos). Ahora dice «Fuiste más valiente de lo que creías. Y llegaste más lejos de lo que imaginabas.». REGLA: nada de victimismo en los textos.
 - Carrusel «Mira cómo lo llevo» (vestido marrón), 28 nov 11:00, APROBADO por Coni el 18 nov; hoja Programacion fila 48 (Make). Piezas: foto parking-mano-pelo (1), fotogramas 0786 (2), 0781 (3), 0818 (4), 0820 árbol Navidad (5), 0821 columna (6), foto parking-de-espaldas (7). 0782 queda no_usar (igual a 0781). Metricool «Cinco gestos de calma» (430596346) sigue en borrador.
 - Reel n.º 11 «Caprichos» (línea viral), 5 dic 11:00, APROBADO por Coni el 18 nov; Programacion fila 29 → «Coni publica (email)», email el 4 dic. Piezas: 0818b (gancho), 0819 (1), 0257 desayuno vela (2), IMG_9829 río (3), 0822 (pregunta). Descartados: foto 106 y vídeo playa-orilla-01 (ya publicados, Coni).
+
+## Reel 20 nov «La elegancia a los 60» (rehecho a petición de Coni, 19 nov)
+- Coni pidió «La elegancia» (no «Mi elegancia») y una foto suya con vestido elegante. Eligió la opción A.
+- USADA: fotos-coni/vestido-rojo-largo-comedor.jpg (vestido rojo largo con la rosa, comedor). Cierre: logo/cierre-frase.
+- Se quitó la frase «me vestía para no llamar la atención» (tema prohibido).
+- Archivo: reels-sin-musica/reel_elegancia_20nov.mp4 (sin música, para Coni). El vídeo anterior sm_20nov.mp4 (americana rosa en el bosque) ya no se usa.
