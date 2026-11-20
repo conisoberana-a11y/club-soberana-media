@@ -258,3 +258,4 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Reels y carruseles con fotos o vídeos de Coni: por Make (Programacion) o por email a Coni. Nunca por Metricool.
 - (20 nov, Coni) «Yo no suelo salir con mis amigas. Salgo siempre con mi marido.» No pedirle escenas con amigas ni escribir que sale o queda con amigas. Las llamadas a la acción del tipo «mándaselo a tu amiga» van dirigidas a las seguidoras y se pueden seguir usando.
 - 22 nov 18:30: hueco libre (Coni lo decidió). Si manda un vídeo nuevo, se adapta para ese hueco o para otro día.
+- (20 nov, Coni) Propuesta «A los 61, mis domingos son así» (sofá rojo leyendo + café en casa): RECHAZADA, «tan aburrido». Nada de reels de calma en casa sin actitud. Los reels tienen que tener energía, estilo y movimiento, como la línea «Lo llevo igual». El 22 nov queda libre.
