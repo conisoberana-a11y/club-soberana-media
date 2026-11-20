@@ -248,3 +248,11 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 
 ## CONI NO ESTÁ SOLA (Coni, 20 nov 2026)
 - «Yo no estoy sola. Tengo a mi marido.» Ningún texto puede dar a entender que Coni vive sola, está sola o «necesita estar sola». Nada de «a solas», «sola» ni soledad referida a ella. Se habla de «tiempo para mí», de «cuidarme» y de «mis ratos».
+
+## METRICOOL: LÍMITE DE 20 (20 nov 2026, aprobado por Coni)
+- Metricool gratuito permite 20 publicaciones al mes. El 20 nov ya llevábamos 15 y, con todo lo programado, se habría llegado a 20 el 22 nov.
+- Desde ahora, Metricool se usa SOLO para: la pregunta de los martes (historia con música, 20:00) y TikTok. Nunca más de 20 al mes; antes de programar algo, contar lo que ya hay en el mes.
+- La frase del día (feed 08:00) la publica Make (escenario 7232062) como REEL. El vídeo lleva la música dentro (scripts_musica_pop.py), porque Make no puede usar la biblioteca de Instagram. URL en la columna L de Untitled, columna I «Pendiente».
+- Make NO puede publicar historias. La historia diaria la hace Coni a mano: comparte el reel de la frase en su historia (y, si quiere, le pone ahí música de Instagram).
+- 20 nov: pasaron a borrador en Metricool las frases del 21 al 25 nov (reel 08:00 e historia 08:05) y las historias de imagen del 26 al 30 nov. Las frases del 21 al 25 nov van por Make.
+- Reels y carruseles con fotos o vídeos de Coni: por Make (Programacion) o por email a Coni. Nunca por Metricool.
