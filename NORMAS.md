@@ -256,3 +256,5 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Make NO puede publicar historias. La historia diaria la hace Coni a mano: comparte el reel de la frase en su historia (y, si quiere, le pone ahí música de Instagram).
 - 20 nov: pasaron a borrador en Metricool las frases del 21 al 25 nov (reel 08:00 e historia 08:05) y las historias de imagen del 26 al 30 nov. Las frases del 21 al 25 nov van por Make.
 - Reels y carruseles con fotos o vídeos de Coni: por Make (Programacion) o por email a Coni. Nunca por Metricool.
+- (20 nov, Coni) «Yo no suelo salir con mis amigas. Salgo siempre con mi marido.» No pedirle escenas con amigas ni escribir que sale o queda con amigas. Las llamadas a la acción del tipo «mándaselo a tu amiga» van dirigidas a las seguidoras y se pueden seguir usando.
+- 22 nov 18:30: hueco libre (Coni lo decidió). Si manda un vídeo nuevo, se adapta para ese hueco o para otro día.
