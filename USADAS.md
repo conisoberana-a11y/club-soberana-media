@@ -166,3 +166,7 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - USADA: fotos-coni/vestido-rojo-largo-comedor.jpg (vestido rojo largo con la rosa, comedor). Cierre: logo/cierre-frase.
 - Se quitó la frase «me vestía para no llamar la atención» (tema prohibido).
 - Archivo: reels-sin-musica/reel_elegancia_20nov.mp4 (sin música, para Coni). El vídeo anterior sm_20nov.mp4 (americana rosa en el bosque) ya no se usa.
+
+## Reel 21 nov «Ya no me justifico» (arreglado el 20 nov)
+- Se quitó la parte «Por qué necesito estar sola» (Coni: «Yo no estoy sola, tengo a mi marido») y con ella el plano en cuclillas. En su lugar va «Por qué me cuido primero / Cuidarme también es cuidar a los míos», sobre el vídeo 5072c79a-IMG_9767 (bosque, americana rosa, junto al árbol), del segundo 2 al 6,4. Queda USADO.
+- Archivo: reels-sin-musica/reel_nojustifico_21nov.mp4. En el pie, «cada rato a solas» pasa a ser «cada rato para mí».

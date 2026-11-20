@@ -245,3 +245,6 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Frases del día: 27 dic (tarjeta 9:16 y 4:5 + pie, sin «pedir permiso»), 3 ene y 25 ene (solo pie) cambiadas.
 - Reels Metricool: 23 dic y 25 dic con pie nuevo, en positivo. El vídeo del 23 dic (orilla del mar) no se ha podido revisar desde aquí: Metricool bloquea la descarga. Hay que confirmar que no repite una imagen de mar ya publicada.
 - Reel en borrador del 14 dic («Pedir sin disculparme») hay que rehacerlo con la línea viral.
+
+## CONI NO ESTÁ SOLA (Coni, 20 nov 2026)
+- «Yo no estoy sola. Tengo a mi marido.» Ningún texto puede dar a entender que Coni vive sola, está sola o «necesita estar sola». Nada de «a solas», «sola» ni soledad referida a ella. Se habla de «tiempo para mí», de «cuidarme» y de «mis ratos».
