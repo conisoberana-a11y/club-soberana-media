@@ -258,4 +258,10 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Reels y carruseles con fotos o vídeos de Coni: por Make (Programacion) o por email a Coni. Nunca por Metricool.
 - (20 nov, Coni) «Yo no suelo salir con mis amigas. Salgo siempre con mi marido.» No pedirle escenas con amigas ni escribir que sale o queda con amigas. Las llamadas a la acción del tipo «mándaselo a tu amiga» van dirigidas a las seguidoras y se pueden seguir usando.
 - 22 nov 18:30: hueco libre (Coni lo decidió). Si manda un vídeo nuevo, se adapta para ese hueco o para otro día.
-- (20 nov, Coni) Propuesta «A los 61, mis domingos son así» (sofá rojo leyendo + café en casa): RECHAZADA, «tan aburrido». Nada de reels de calma en casa sin actitud. Los reels tienen que tener energía, estilo y movimiento, como la línea «Lo llevo igual». El 22 nov queda libre.
+- (20 nov, Coni) Propuesta «A los 61, mis domingos son así»: «tan aburrido». El material del sofá le parece bien («incluso una película de domingo»), pero NO como rutina o regla («mis domingos son así»). Buscar siempre un gancho con chispa y actitud, nada de presentarlo como norma de vida.
+
+## ESTILO DEL TEXTO EN REELS Y TARJETAS (Coni, 20 nov 2026, APROBADO)
+- Letras blancas (Lora SemiBold para la frase, Source Sans para la etiqueta dorada y el subtítulo), alineadas a la izquierda en x=90, con una rayita dorada debajo.
+- Sombra casi invisible: un contorno fino oscuro en las letras (stroke 2 px, negro al ~110/255) más una sombra desplazada 1-2 px (~170/255). Detrás del texto, como mucho, un halo muy suave (opacidad ~55/255, desenfoque 34 px). NUNCA manchas ni recuadros oscuros que se noten.
+- Comprobar siempre que se lee bien, también sobre fondos claros, y que no tapa la cara.
+- Referencia: reel «Hoy la cocina está cerrada» (22 nov), script en scratchpad dom/build.py, copiado en scripts_texto_reel.py.
