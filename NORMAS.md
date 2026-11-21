@@ -270,3 +270,4 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - El 21 nov, Make publicó solo el carrusel «Carta a la mujer que fui», sin música. Ni Make ni Metricool pueden poner música a un carrusel.
 - Desde ahora, los carruseles los publica Coni a mano con música de Instagram. En Programacion, Estado «Coni publica carrusel (email)». El día antes a las 9:37 le llega un email con las fotos adjuntas en orden y el texto. Lo hace la tarea diaria trig_0175NBYRcixesDFPZZpAcWdV.
 - Make ya no publica carruseles: nunca dejar un CAROUSEL en «Pendiente».
+- (21 nov, Coni) TODOS los carruseles terminan con el logo como última foto: logo/cierre-carrusel-1080x1350.jpg («TU VIDA. TU MOMENTO / VIVE A TU MANERA», formato 4:5).
