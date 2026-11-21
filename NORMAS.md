@@ -265,3 +265,8 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Sombra casi invisible: un contorno fino oscuro en las letras (stroke 2 px, negro al ~110/255) más una sombra desplazada 1-2 px (~170/255). Detrás del texto, como mucho, un halo muy suave (opacidad ~55/255, desenfoque 34 px). NUNCA manchas ni recuadros oscuros que se noten.
 - Comprobar siempre que se lee bien, también sobre fondos claros, y que no tapa la cara.
 - Referencia: reel «Hoy la cocina está cerrada» (22 nov), script en scratchpad dom/build.py, copiado en scripts_texto_reel.py.
+
+## CARRUSELES: LOS PUBLICA CONI CON MÚSICA (Coni, 21 nov 2026)
+- El 21 nov, Make publicó solo el carrusel «Carta a la mujer que fui», sin música. Ni Make ni Metricool pueden poner música a un carrusel.
+- Desde ahora, los carruseles los publica Coni a mano con música de Instagram. En Programacion, Estado «Coni publica carrusel (email)». El día antes a las 9:37 le llega un email con las fotos adjuntas en orden y el texto. Lo hace la tarea diaria trig_0175NBYRcixesDFPZZpAcWdV.
+- Make ya no publica carruseles: nunca dejar un CAROUSEL en «Pendiente».
