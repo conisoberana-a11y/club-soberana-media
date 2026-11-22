@@ -272,3 +272,11 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Desde ahora, los carruseles los publica Coni a mano con música de Instagram. En Programacion, Estado «Coni publica carrusel (email)». El día antes a las 9:37 le llega un email con las fotos adjuntas en orden y el texto. Lo hace la tarea diaria trig_0175NBYRcixesDFPZZpAcWdV.
 - Make ya no publica carruseles: nunca dejar un CAROUSEL en «Pendiente».
 - (21 nov, Coni) TODOS los carruseles terminan con el logo como última foto: logo/cierre-carrusel-1080x1350.jpg («TU VIDA. TU MOMENTO / VIVE A TU MANERA», formato 4:5).
+
+## TODO REEL NECESITA UNA ESTRATEGIA VIRAL (Coni, 22 nov 2026) — RECORDARLO SIEMPRE
+- «Lo que quiero es que se haga viral. Que tenga una estrategia.» Antes de proponer un reel, explicar a Coni su estrategia en 4 puntos:
+  1. Gancho del primer segundo: movimiento de Coni hacia la cámara y una frase que despierte curiosidad o identificación (edad, «me dijeron…», «3 claves…»).
+  2. Valor: algo útil o con lo que identificarse, que dé ganas de GUARDARLO (consejos de estilo y listas cortas) o de COMPARTIRLO («mándaselo a tu amiga que…»).
+  3. Ritmo: entre 12 y 18 s, un plano cada 2-3 s, texto corto y grande, final que invite a verlo otra vez.
+  4. Llamada a la acción: una pregunta para comentar más «guárdalo» o «mándaselo», y el cierre con el logo.
+- Describir bien la ropa: el abrigo del 22 nov es GRIS claro (no blanco).
