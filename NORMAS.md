@@ -266,7 +266,8 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Comprobar siempre que se lee bien, también sobre fondos claros, y que no tapa la cara.
 - Referencia: reel «Hoy la cocina está cerrada» (22 nov), script en scratchpad dom/build.py, copiado en scripts_texto_reel.py.
 
-## CARRUSELES: LOS PUBLICA CONI CON MÚSICA (Coni, 21 nov 2026)
+## CARRUSELES (Coni, 21-22 nov 2026)
+- ACTUALIZADO 22 nov: Coni ha comprobado que puede añadir música al carrusel DESPUÉS de publicarlo. Los carruseles vuelven a publicarse SOLOS por Make (Estado «Pendiente», 7 u 8 fotos con el logo al final) y Coni les pone la música al salir. Lo de abajo queda anulado.
 - El 21 nov, Make publicó solo el carrusel «Carta a la mujer que fui», sin música. Ni Make ni Metricool pueden poner música a un carrusel.
 - Desde ahora, los carruseles los publica Coni a mano con música de Instagram. En Programacion, Estado «Coni publica carrusel (email)». El día antes a las 9:37 le llega un email con las fotos adjuntas en orden y el texto. Lo hace la tarea diaria trig_0175NBYRcixesDFPZZpAcWdV.
 - Make ya no publica carruseles: nunca dejar un CAROUSEL en «Pendiente».
