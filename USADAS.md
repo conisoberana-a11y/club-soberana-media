@@ -173,3 +173,13 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 
 ## 22 nov: reel del 23 nov «Un día solo para mí» (sm_23nov) DESCARTADO
 - Coni recordaba que ya se había publicado. Usa IMG_9742, 9743 y 9744 (cataratas del Rin, abrigo negro): es la misma escena y la misma ropa que 2e68e268-IMG_9719, publicado en reel_citas_4 (11 nov). Además, el tema («regalarse un día») se repite con reel_lujo y reel_citas. No se publica. El 23 nov queda libre.
+
+## Material nuevo (22 nov, Coni): abrigo largo blanco, bufanda crema y botas blancas (LIBRE)
+- videos-coni/7b49182e-IMG_0959-abrigo-blanco-ascensor.mov (15 s, portal y ascensor, se gira hacia la cámara)
+- videos-coni/63a463c7-IMG_0960-abrigo-blanco-pasillo-hacia-camara.mov (7,7 s, pasillo verde, camina hacia la cámara)
+- videos-coni/33d24e25-IMG_0961-abrigo-blanco-pasillo-hacia-camara-2.mov (6,9 s, la misma escena: no usar junto al 0960 en el mismo reel)
+- videos-coni/ccaaeb7a-IMG_0962-abrigo-blanco-parking-giro.mov (4,4 s, de espaldas, se gira y viene)
+- videos-coni/a1d0a391-IMG_0963-abrigo-blanco-parking-hacia-camara.mov (3,7 s, parking, camina hacia la cámara)
+- videos-coni/0a1ce69a-IMG_0964-abrigo-blanco-parking-alejandose.mov (7,2 s, se aleja)
+- videos-coni/cc749a6b-IMG_0965-abrigo-blanco-bufanda-primer-plano.mov (6 s, se coloca la bufanda y llega a primer plano, sonríe)
+- Todos en HDR: convertir con la cadena zscale de NORMAS. Ideal para un reel con energía, en la línea «Lo llevo igual» (abrigo blanco en invierno).
