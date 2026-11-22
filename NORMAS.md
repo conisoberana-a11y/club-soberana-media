@@ -283,3 +283,11 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 
 ## ESTRATEGIA (22 nov 2026)
 - Documento vivo: «Estrategia Club Soberana», https://claude.ai/artifact/55cs8EycvpkLLYM4auVpWw (datos, camino hacia el Club, 4 series, reglas, semana tipo, métricas). Revisarlo cada domingo con los números de Metricool.
+
+## EDAD Y SOCIAS (22 nov)
+- Los ganchos hablan a mujeres de **60 o más**, nunca «más de 55».
+- Todavía no hay frases de socias: no inventarlas. La serie de confianza es «Mi historia», contada por Coni.
+
+## DESCARGAS DE LA GUÍA
+- La guía se pide con email y llega por MailerLite. Cada domingo contar los contactos nuevos (sin contar los correos de prueba de Coni).
+- 22 nov: 3 mujeres desde mayo, la última el 20 ago. Ninguna con los virales de noviembre.
