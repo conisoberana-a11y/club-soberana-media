@@ -280,3 +280,6 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
   3. Ritmo: entre 12 y 18 s, un plano cada 2-3 s, texto corto y grande, final que invite a verlo otra vez.
   4. Llamada a la acción: una pregunta para comentar más «guárdalo» o «mándaselo», y el cierre con el logo.
 - Describir bien la ropa: el abrigo del 22 nov es GRIS claro (no blanco).
+
+## ESTRATEGIA (22 nov 2026)
+- Documento vivo: «Estrategia Club Soberana», https://claude.ai/artifact/55cs8EycvpkLLYM4auVpWw (datos, camino hacia el Club, 4 series, reglas, semana tipo, métricas). Revisarlo cada domingo con los números de Metricool.
