@@ -291,3 +291,7 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 ## DESCARGAS DE LA GUÍA
 - La guía se pide con email y llega por MailerLite. Cada domingo contar los contactos nuevos (sin contar los correos de prueba de Coni).
 - 22 nov: 3 mujeres desde mayo, la última el 20 ago. Ninguna con los virales de noviembre.
+
+## INVITACIÓN A LA GUÍA (22 nov, Coni)
+- Solo en reels cuyo tema lleve de forma natural a «elegirte» (prioridades, cuidarte, decidir por ti). Nunca pegada a un reel de ropa o estilo: ahí el final es «guárdalo» o «mándaselo a tu amiga».
+- El texto nunca tapa la cara de Coni en ningún momento del plano: revisar el primer y el último fotograma de cada plano.
