@@ -183,3 +183,7 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 - videos-coni/0a1ce69a-IMG_0964-abrigo-gris-parking-alejandose.mov (7,2 s, se aleja)
 - videos-coni/cc749a6b-IMG_0965-abrigo-gris-bufanda-primer-plano.mov (6 s, se coloca la bufanda y llega a primer plano, sonríe)
 - Todos en HDR: convertir con la cadena zscale de NORMAS. Ideal para un reel con energía, en la línea «Lo llevo igual» (abrigo gris en invierno).
+
+## Reel 24 nov «Si tienes más de 60… abrigo largo» (borrador, pendiente de Coni)
+- Usados: IMG_0960 (pasillo), IMG_0962 (giro), IMG_0963 (parking hacia cámara), IMG_0965 (bufanda), IMG_0964 (se aleja).
+- Libres aún: IMG_0959 (ascensor), IMG_0961 (pasillo, misma escena que 0960).
