@@ -170,3 +170,6 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 ## Reel 21 nov «Ya no me justifico» (arreglado el 20 nov)
 - Se quitó la parte «Por qué necesito estar sola» (Coni: «Yo no estoy sola, tengo a mi marido») y con ella el plano en cuclillas. En su lugar va «Por qué me cuido primero / Cuidarme también es cuidar a los míos», sobre el vídeo 5072c79a-IMG_9767 (bosque, americana rosa, junto al árbol), del segundo 2 al 6,4. Queda USADO.
 - Archivo: reels-sin-musica/reel_nojustifico_21nov.mp4. En el pie, «cada rato a solas» pasa a ser «cada rato para mí».
+
+## 22 nov: reel del 23 nov «Un día solo para mí» (sm_23nov) DESCARTADO
+- Coni recordaba que ya se había publicado. Usa IMG_9742, 9743 y 9744 (cataratas del Rin, abrigo negro): es la misma escena y la misma ropa que 2e68e268-IMG_9719, publicado en reel_citas_4 (11 nov). Además, el tema («regalarse un día») se repite con reel_lujo y reel_citas. No se publica. El 23 nov queda libre.
