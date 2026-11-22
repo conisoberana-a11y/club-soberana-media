@@ -187,3 +187,6 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 ## Reel 24 nov «Si tienes más de 60… abrigo largo» (borrador, pendiente de Coni)
 - Usados: IMG_0960 (pasillo), IMG_0962 (giro), IMG_0963 (parking hacia cámara), IMG_0965 (bufanda), IMG_0964 (se aleja).
 - Libres aún: IMG_0959 (ascensor), IMG_0961 (pasillo, misma escena que 0960).
+
+## Reel 28 nov «Lo di todo» (serie «Mi historia», lleva a la guía)
+- Usados: e5273762-IMG_9473 (fuente, americana roja), 4b1a79fe (plaza, gabardina), 93e4a3b9-IMG_0269 (sofá rojo leyendo), e1139576-IMG_0241 (banco con el móvil).
