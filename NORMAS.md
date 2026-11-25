@@ -295,3 +295,9 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 ## INVITACIÓN A LA GUÍA (22 nov, Coni)
 - Solo en reels cuyo tema lleve de forma natural a «elegirte» (prioridades, cuidarte, decidir por ti). Nunca pegada a un reel de ropa o estilo: ahí el final es «guárdalo» o «mándaselo a tu amiga».
 - El texto nunca tapa la cara de Coni en ningún momento del plano: revisar el primer y el último fotograma de cada plano.
+
+## GUARDIANA DEL BANCO (25 nov, Coni)
+- Desde el 25 nov, Retomamos es la guardiana única del banco de fotos y vídeos, del registro y de las herramientas de reels. Traspaso: content/instagram-60-dias/TRASPASO-A-RETOMAMOS.md (coni-soberana-v2, rama claude/instagram-60-day-content-plan-q9m8fe).
+- Antes de usar CUALQUIER pieza: comprobar que está «libre» en el registro (artefacto RoFEujeRNTKoRbcBW2Zo8g, colección fotos), mirar USADAS.md y las hojas Programacion y Untitled. Apuntar el uso en el registro en el mismo momento. Una pieza no se repite nunca.
+- Error del 23 nov que no debe repetirse: «Lo di todo» llevaba IMG_9473, 4b1a79fe e IMG_0241, ya publicados. Fila 50 en pausa hasta rehacerlo.
+- Banco libre muy bajo (25 nov): casi todo lo libre son escenas con copa de vino. Avisar a Coni y pedir material nuevo.

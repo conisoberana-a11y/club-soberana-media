@@ -190,3 +190,6 @@ Coni pidió quitar «Cené sola y fue precioso» porque se parecía a «salir so
 
 ## Reel 28 nov «Lo di todo» (serie «Mi historia», lleva a la guía)
 - Usados: e5273762-IMG_9473 (fuente, americana roja), 4b1a79fe (plaza, gabardina), 93e4a3b9-IMG_0269 (sofá rojo leyendo), e1139576-IMG_0241 (banco con el móvil).
+
+## 25 nov: CORRECCIÓN «Lo di todo»
+- IMG_9473 (fuente), 4b1a79fe (plaza, gabardina) e IMG_0241 (banco con el móvil) NO estaban libres: ya salieron en «3 cosas», «Dejé 5 cosas» y el reel viral. Hay que rehacer el reel. Sigue programado en él solo IMG_0269 (sofá rojo).
