@@ -54,7 +54,10 @@ Todo está en la raíz del repositorio `club-soberana-media`.
   - Volumen final con `loudnorm` a I=-14, LRA=11, TP=-1.5.
   - Si hay música, va 18–22 dB por debajo de la voz.
   - Sin música de Coni, se entrega sin música: ella la elige en Instagram al publicar.
-- **Transcripción:** se hace con faster-whisper, modelo `small` o `medium`, en español y con marcas de tiempo por palabra. Después se corrige a mano. Si no está instalado, se avisa a Coni antes de instalar nada.
+- **Transcripción:** se hace con faster-whisper, modelo `small`, en español, con `word_timestamps=True` y `vad_filter=True`. Después se corrige a mano. Coni aprobó instalarla el 25 nov.
+  - Si en una sesión nueva no está: `python3 -m pip install faster-whisper`. Ojo: `pip` a secas instala para otra versión de Python.
+  - Descarga del modelo: `HF_HUB_DISABLE_XET=1`. El entorno ya permite los dominios de Hugging Face.
+  - Antes, se extrae el audio con `ffmpeg -i video -vn -ac 1 -ar 16000 audio.wav`.
 - **Márgenes seguros:** el texto va entre y = 220 y y = 1650, con al menos 90 px a cada lado. Instagram tapa la parte de abajo con la descripción y la de arriba con el nombre.
 - **Revisión final:** sacar fotogramas al principio, en el medio, en la última frase y en el logo, y mirarlos uno a uno. Comprobar también la duración, 1080 × 1920, el audio y la sincronización.
 - **Entrega:** se envía el MP4 a Coni con el copy. Si ella lo aprueba, se añade a la hoja Programacion (pestaña `Programacion`, estado «Coni publica (email)») y se anota en `USADAS.md` qué material se ha usado.
