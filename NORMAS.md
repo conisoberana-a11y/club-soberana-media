@@ -301,3 +301,7 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Antes de usar CUALQUIER pieza: comprobar que está «libre» en el registro (artefacto RoFEujeRNTKoRbcBW2Zo8g, colección fotos), mirar USADAS.md y las hojas Programacion y Untitled. Apuntar el uso en el registro en el mismo momento. Una pieza no se repite nunca.
 - Error del 23 nov que no debe repetirse: «Lo di todo» llevaba IMG_9473, 4b1a79fe e IMG_0241, ya publicados. Fila 50 en pausa hasta rehacerlo.
 - Banco libre muy bajo (25 nov): casi todo lo libre son escenas con copa de vino. Avisar a Coni y pedir material nuevo.
+
+## FRASE DEL DÍA EN VÍDEO (desde el 3 dic, aprobado por Coni el 26 nov)
+- Fondos: 7 vídeos de Google Flow en fondos-frase/lentos/ (01_taza, 02_lino, 03_jarron, 04_cortina, 05_lavanda, 06_bosque, 07_mar). Cada uno dura 16 s SEGUIDOS, a cámara lenta suave, sin bucle ni retroceso (a Coni no le gusta que se note). Llevan su sonido natural hasta el final (fundido solo en el último medio segundo) y no se les añade música.
+- Montaje: fondos-frase/frase_video.py. El texto va arriba a la izquierda, con las líneas pequeñas y la palabra clave grande con serifa. Es marrón en los fondos claros y crema en los de color. Fondo por día: lunes taza, martes lino, miércoles jarrón, jueves cortina, viernes lavanda, sábado bosque y domingo mar.
