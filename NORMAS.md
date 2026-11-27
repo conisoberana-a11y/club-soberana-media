@@ -312,3 +312,9 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 - Quedan 3 huecos para TikTok en enero. No programar nada más en enero sin contar antes.
 - Todas las demás historias de las 8:05 de enero (png y jpg, 58 en total) están en borrador.
 - Si un reel antiguo de enero se sustituye por uno que Coni publica por email, su versión de Metricool pasa a borrador y queda un hueco más (para TikTok o para otra historia).
+
+## FRASE DEL DÍA ANIMADA CON FLOW (27 nov 2026, Coni: «hazlos todos así, me encanta»)
+- 18 días con animación propia de Flow: 3, 5, 9, 12, 16, 19, 23, 26 y 30 dic; 2, 6, 9, 13, 16, 20, 23, 27 y 30 ene. La tarea semanal no toca esos días.
+- Proceso: Flow (en la sesión «Fondos para frase del día», en el ordenador de Coni) genera 8 s → Drive «Fondos frase del día / Animados» → aquí se pasan a 16 s con minterpolate (animar/lentos/) → animar/montar.py pone la frase (textos.json) en la posición de posiciones.json, con los pajaritos de 05_lavanda.m4a → animar/final/ → URL raw fijada al commit en la columna L de Untitled.
+- Referencia aprobada: frase del 3 dic (tazas de té), con el texto arriba a la derecha sobre la cortina. Cada vídeo lleva el texto donde mejor se lee; se revisa el primer y el último fotograma.
+- Puntos de Flow: se renuevan el 17 de cada mes (19:53) y no se acumulan. 8 s = 24 puntos.
