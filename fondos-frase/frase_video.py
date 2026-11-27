@@ -34,14 +34,14 @@ def overlay(frame, pequeno, grande, orden, out, x=90, y=300, bloques=None):
     halo=(250,244,236) if claro else (20,14,10)
     sh=Image.new('RGBA',(W,H),halo+(0,)); sh.putalpha(m); im=Image.alpha_composite(im,sh); d=ImageDraw.Draw(im)
     for t,f,c,y0 in items: d.text((x,y0),t,font=f,fill=c+(255,))
-    d.text((x,1700),'@club.soberana',font=fh,fill=c1+(255,))
+    d.text((x if x<400 else 90,1700),'@club.soberana',font=fh,fill=c1+(255,))
     im.save(out)
 def main(a):
     v=a.get('video') or os.path.join(AQUI,'lentos',a['fondo']+'.mp4')
     au=a.get('audio') or os.path.join(AQUI,'lentos',a['fondo']+'.m4a')
     t=tempfile.mkdtemp(); fr=os.path.join(t,'f.png'); ov=os.path.join(t,'o.png')
     subprocess.run(['ffmpeg','-v','error','-y','-ss','0.5','-i',v,'-frames:v','1',fr],check=True)
-    overlay(fr,a.get('pequeno',[]),a.get('grande',[]),a.get('orden','pequeno_arriba'),ov,y=a.get('y',300),bloques=a.get('bloques'))
+    overlay(fr,a.get('pequeno',[]),a.get('grande',[]),a.get('orden','pequeno_arriba'),ov,x=a.get('x',90),y=a.get('y',300),bloques=a.get('bloques'))
     subprocess.run(['ffmpeg','-v','error','-y','-i',v,'-i',au,'-loop','1','-i',ov,'-filter_complex',
       '[2:v]format=rgba,fade=t=in:st=0.4:d=1.2:alpha=1[o];[0:v][o]overlay=0:0:shortest=1,format=yuv420p[v]',
       '-map','[v]','-map','1:a','-shortest','-c:v','libx264','-crf','18','-preset','slow','-c:a','aac','-b:a','160k','-movflags','+faststart',a['salida']],check=True)
