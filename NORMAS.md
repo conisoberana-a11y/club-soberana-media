@@ -305,3 +305,10 @@ Han empezado a seguirla muchos hombres y a dejarle comentarios. Coni quiere una 
 ## FRASE DEL DÍA EN VÍDEO (desde el 3 dic, aprobado por Coni el 26 nov)
 - Fondos: 7 vídeos de Google Flow en fondos-frase/lentos/ (01_taza, 02_lino, 03_jarron, 04_cortina, 05_lavanda, 06_bosque, 07_mar). Cada uno dura 16 s SEGUIDOS, a cámara lenta suave, sin bucle ni retroceso (a Coni no le gusta que se note). Llevan su sonido natural hasta el final (fundido solo en el último medio segundo) y no se les añade música.
 - Montaje: fondos-frase/frase_video.py. El texto va arriba a la izquierda, con las líneas pequeñas y la palabra clave grande con serifa. Es marrón en los fondos claros y crema en los de color. Fondo por día: lunes taza, martes lino, miércoles jarrón, jueves cortina, viernes lavanda, sábado bosque y domingo mar.
+
+## METRICOOL ENERO 2027: 17 DE 20 (27 nov 2026, Coni: «calcúlalo y publica sin pasar de las 20 mensuales»)
+- Las tarjetas de la frase del día siguen por Make a las 8:00 (gratis, no cuentan en Metricool).
+- Activas en enero en Metricool: 9 reels antiguos a las 18:30 (1, 6, 8, 13, 15, 20, 22, 27, 29), 4 preguntas de los martes a las 20:00 (5, 12, 19, 26) y 4 historias a las 8:05, una cada domingo (3, 10, 17, 24, la versión jpg). Total: 17.
+- Quedan 3 huecos para TikTok en enero. No programar nada más en enero sin contar antes.
+- Todas las demás historias de las 8:05 de enero (png y jpg, 58 en total) están en borrador.
+- Si un reel antiguo de enero se sustituye por uno que Coni publica por email, su versión de Metricool pasa a borrador y queda un hueco más (para TikTok o para otra historia).
