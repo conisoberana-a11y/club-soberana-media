@@ -12,10 +12,10 @@ FT=os.path.join(AQUI,'fuentes','Lora-SemiBold.ttf')
 FS=os.path.join(AQUI,'fuentes','SourceSans-SemiBold.ttf')
 def font(p,s,peso=None):
     return ImageFont.truetype(p,s)
-def overlay(frame, pequeno, grande, orden, out, x=90, y=300, bloques=None):
+def overlay(frame, pequeno, grande, orden, out, x=90, y=300, bloques=None, claro=None):
     bg=Image.open(frame).convert('L').resize((W,H))
     reg=bg.crop((x,y,x+800,y+420)); lum=sum(reg.get_flattened_data() if hasattr(reg,'get_flattened_data') else reg.getdata())/(800*420)
-    claro=lum>150
+    if claro is None: claro=lum>150
     c1=(74,46,20) if claro else (250,240,228); c2=(131,98,64) if claro else (255,248,238)
     fs=font(FS,50,600); fb=font(FT,112,600); fh=font(FS,36,600)
     items=[]; yy=y
@@ -41,7 +41,7 @@ def main(a):
     au=a.get('audio') or os.path.join(AQUI,'lentos',a['fondo']+'.m4a')
     t=tempfile.mkdtemp(); fr=os.path.join(t,'f.png'); ov=os.path.join(t,'o.png')
     subprocess.run(['ffmpeg','-v','error','-y','-ss','0.5','-i',v,'-frames:v','1',fr],check=True)
-    overlay(fr,a.get('pequeno',[]),a.get('grande',[]),a.get('orden','pequeno_arriba'),ov,x=a.get('x',90),y=a.get('y',300),bloques=a.get('bloques'))
+    overlay(fr,a.get('pequeno',[]),a.get('grande',[]),a.get('orden','pequeno_arriba'),ov,x=a.get('x',90),y=a.get('y',300),bloques=a.get('bloques'),claro=a.get('claro'))
     subprocess.run(['ffmpeg','-v','error','-y','-i',v,'-i',au,'-loop','1','-i',ov,'-filter_complex',
       '[2:v]format=rgba,fade=t=in:st=0.4:d=1.2:alpha=1[o];[0:v][o]overlay=0:0:shortest=1,format=yuv420p[v]',
       '-map','[v]','-map','1:a','-shortest','-c:v','libx264','-crf','18','-preset','slow','-c:a','aac','-b:a','160k','-movflags','+faststart',a['salida']],check=True)
